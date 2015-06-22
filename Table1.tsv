@@ -1,4 +1,4 @@
-Number	Order	Family	Species	Latitude	Longtitude	Image URL	Citation	Locality	Year	Author	Wiki URL
+ID	Order	Family	Species	Latitude	Longtitude	Image URL	Citation	Locality	Year	Author	Wiki URL
 1	Monotremata	Tachyglossidae	Zaglossus attenboroughi	-2.53	140.63	http://www.charlottezoologicalpark.org/rteimages/Long-beaked-echidna.jpg	Mammalia 62:387	I	1998	Flannery and Groves	http://en.wikipedia.org/wiki/Sir_David%27s_long-beaked_echidna
 2	Didelphimorphia	Didelphidae	Gracilinanus ignitus	-23.63	-64.47	http://t3.gstatic.com/images?q=tbn:ANd9GcQuuw1VZTUCh2ldhabpzTcl3d7kKFSVW6CAF9o0zsovNbEM0t1A	J. Mammal 83:825	C	2002	Diaz, Flores, and Barquez	http://eu.wikipedia.org/wiki/Gracilinanus_ignitus
 3	Didelphimorphia	Didelphidae	Hyladelphys kalinowskii	-13.5	-70.92	http://www.sciencephoto.com/image/106771/large/C0042558-Kalinowski_s_Mouse_Opossum-SPL.jpg	Fieldiana Zool., n.s., 70:37	C	1992	(Hershkovitz)	http://en.wikipedia.org/wiki/Kalinowski%27s_mouse_opossum
@@ -149,50 +149,50 @@ Number	Order	Family	Species	Latitude	Longtitude	Image URL	Citation	Locality	Year
 148	Rodentia	Cricetidae	Thomasomys onkiro	-11.66	-73.67		J. Mammal.83:835	C	2003	Luna and Pacheco	
 149	Rodentia	Cricetidae	Thomasomys ucucha	-0.37	-78.13		Am. Mus. Novit. 3421:10	C	2003	Voss	
 150	Rodentia	Cricetidae	Wiedomys cerradensis	-14.63	-45.85		Mamm. Biol. 70:51	C	2005	Gonçalves, Almeida, and  Bonvicino	
-151	Rodentia	Murida	Lophuromys angolensis	-5.05	18.92		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 70:255	C	2000	W. Verheyen, Dierckx, and Hulselmans	
-152	Rodentia	Murida	Lophuromys dieterleni	6.2	10.53		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:173	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer	
-153	Rodentia	Murida	Lophuromys dudui	0.6	25.22		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72:147	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen	
-154	Rodentia	Murida	Lophuromys huttereri	0.2	24.78		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 66:255	C	1996	W. Verheyen, Colyn, and Hulselmans	
-155	Rodentia	Murida	Lophuromys roseveari	4.17	9.17		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:167	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer	
-156	Rodentia	Murida	Lophuromys verhageni	-3.25	36.73		Bull. Inst. Roy. Sci. Nat. Belgique,  Biol. 72:153	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen	
-157	Rodentia	Murida	Dipodillus rupicola	14.47	-4.09		J. Zool. Lond. 256:183	C	2002	Granjon, Aniskin, Volobouev, and Sicard	
-158	Rodentia	Murida	Taterillus tranieri	15.02	-7.67		Mamm. Biol. 68:301	C	2003	Dobigny, Granjon, Aniskin, Ba, and Volobouev	
-159	Rodentia	Murida	Apomys camiguinensis	9.17	124.72		Fieldiana Zool. n.s. 106:18	I	2000	Heaney and Tabaranza	
-160	Rodentia	Murida	Apomys gracilirostris	13.28	121.99		Proc. Biol. Soc. Wash. 108:305	I	1995	Ruedas	
-161	Rodentia	Murida	Archboldomys musseri	17.7	122.03		Fieldiana Zool. n.s. 89:17	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete	
-162	Rodentia	Murida	Batomys russatus	13.47	122.02		Am. Mus. Novit. 3237:34	I	1998	Musser, Heaney, and Tabaranza, Jr.	
-163	Rodentia	Murida	Bullimus gamay	9.18	124.72		J. Mammal. 83:427	I	2002	Rickart, Heaney, and Tabaranza, Jr.	
-164	Rodentia	Murida	Chrotomys sibuyanensis	12.35	122.65		J. Mammal 86:420	I	2005	Rickart, Heaney, Goodman, and Jansa	
-165	Rodentia	Murida	Crateromys heaneyi	11.02	122.23		J. Mammal. 76:26	I	1996	Gonzales and Kennedy	
-166	Rodentia	Murida	Crunomys suncoides	8.15	124.85		Fieldiana Zool. n.s. 89:8	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete	
-167	Rodentia	Murida	Dasymys cabrali	-17.93	20.42		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:39	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E.Verheyen	
-168	Rodentia	Murida	Dasymys robertsii	-25.82	28.08		Mammalia 68:219	C	2004	Mullin, Pillay, Taylor	
-169	Rodentia	Murida	Dasymys rwandae	-1.43	29.6		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:45	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E. Verheyen	
-170	Rodentia	Murida	Dasymys shortridgei	-19.57	18.12		Mammalia 68:219	C	2004	Mullin, Pillay, and Taylor	
-171	Rodentia	Murida	Dasymys sua	-6.87	37.68		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:41	C	2003	W. Verheyen, Hulselmans, Dierckx,  Colyn, Leirs, and E. Verheyen	
-172	Rodentia	Murida	Desmomys yaldeni	7.07	35.5		Bonn. Zool. Beitr. 50:320	C	2003	Lavrenchenko	
-173	Rodentia	Murida	Hadromys schmidlyi	18.72	-99.77		Proc. Biol. Soc. Wash. 118:608	C	2005	Leon-Paniagua and Sanchez	
-174	Rodentia	Murida	Hydromys ziegleri	-3.65	143.05		Zootaxa 913:1	I	2005	Helgen	
-175	Rodentia	Murida	Hylomyscus acrimontensis	-5.1	38.6		Proc. Biol. Soc. Wash. 118:629	C	2005	Carleton and Stanley	
-176	Rodentia	Murida	Limnomys bryophilus	8.15	124.85		J. Mammal. 84:1445	I	2003	Rickart, Heaney, and Tabaranza	
-177	Rodentia	Murida	Mastomys awashensis	8.38	39.15		In Lavrenhenko et al., Z. Säugetierk. 63:44	C	1998	Lavrenchenko Likhnova, and Baskevich	
-178	Rodentia	Murida	Melomys bannisteri	-5.45	133.03		Rec. W. Aust. Mus. 16:428	I	1993	Kitchener and Maryanto	
-179	Rodentia	Murida	Melomys cooperae	-7.87	131.42		In Kitchener and Maryanto, Rec. W. Aust. Mus. 17:43	I	1995	Kitchener	
-180	Rodentia	Murida	Melomys howi	-8.15	130.88		In Kitchener and Suyanto, Rec. W. Aust. Mus. 18:113	I	1996	Kitchener	
-181	Rodentia	Murida	Melomys matambuai	-2.13	147.08		Proc. Linn. Soc. N.S.W. 114:39	I	1994	Flannery, Colgan, and Trimble	
-182	Rodentia	Murida	Melomys paveli	-3.25	129.5		J. Zool. Lond. 261:168	I	2003	Helgen	
-183	Rodentia	Murida	Mus cypriacus	34.77	32.92		Zootaxa 1241:13	I	2006	Cucchi, Orth, Auffray, Renaud, Fabre, Catalan, Hadjisterkotis, Bonhomme and Vigne	
-184	Rodentia	Murida	Mus fragilicauda	14.54	101.96		Zoologica Scripta 32:121	C	2003	Auffray, Orth, Catalan, Gonzalez, Desmarais, and Bonhomme	
-185	Rodentia	Murida	Paramelomys gressitti	-7.35	146.67		Aust. J. Zool. 44:407	I	1996	Menzies	
-186	Rodentia	Murida	Pithecheirops otion	4.97	117.8		Proc. Biol. Soc. Wash. 106:753	I	1993	Emmons	
-187	Rodentia	Murida	Praomys degraaffi	-3.43	29.77		S. Afr. J. Zool. 34:81	C	1999	Van der Straeten and Kerbis Peterhans	
-188	Rodentia	Murida	Praomys petteri	3.9	17.93		Bonn. Zool. Beitr. 50:333	C	2003	Van der Straeten, Lecompte, and Denys	
-189	Rodentia	Murida	Pseudohydromys germani	-9.88	149.38		Mamm. Biol. 70:62	I	2005	Helgen	
-190	Rodentia	Murida	Saxatilomys paulinae	17.55	104.83		Am. Mus. Novit. 3497:1	C	2005	Musser et al.	
-191	Rodentia	Murida	Sommeromys macrorhinos	-2.22	120.07		Am. Mus. Novit. 3368:7	I	2002	Musser and Durden	
-192	Rodentia	Murida	Tonkinomys daovantieni	21.68	106.34		Am. Mus. Novit. 3517:7	C	2006	Musser, Lunde, and Son	
-193	Rodentia	Murida	Uromys boeadii	-0.09	135		Rec. Aust. Mus. 46:157	I	1994	Groves and Flannery	
-194	Rodentia	Murida	Uromys emmae	-1.27	136.43		Rec. Aust. Mus. 46:159	I	1994	Groves and Flannery	
+151	Rodentia	Muridae	Lophuromys angolensis	-5.05	18.92		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 70:255	C	2000	W. Verheyen, Dierckx, and Hulselmans	
+152	Rodentia	Muridae	Lophuromys dieterleni	6.2	10.53		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:173	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer	
+153	Rodentia	Muridae	Lophuromys dudui	0.6	25.22		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72:147	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen	
+154	Rodentia	Muridae	Lophuromys huttereri	0.2	24.78		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 66:255	C	1996	W. Verheyen, Colyn, and Hulselmans	
+155	Rodentia	Muridae	Lophuromys roseveari	4.17	9.17		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:167	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer	
+156	Rodentia	Muridae	Lophuromys verhageni	-3.25	36.73		Bull. Inst. Roy. Sci. Nat. Belgique,  Biol. 72:153	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen	
+157	Rodentia	Muridae	Dipodillus rupicola	14.47	-4.09		J. Zool. Lond. 256:183	C	2002	Granjon, Aniskin, Volobouev, and Sicard	
+158	Rodentia	Muridae	Taterillus tranieri	15.02	-7.67		Mamm. Biol. 68:301	C	2003	Dobigny, Granjon, Aniskin, Ba, and Volobouev	
+159	Rodentia	Muridae	Apomys camiguinensis	9.17	124.72		Fieldiana Zool. n.s. 106:18	I	2000	Heaney and Tabaranza	
+160	Rodentia	Muridae	Apomys gracilirostris	13.28	121.99		Proc. Biol. Soc. Wash. 108:305	I	1995	Ruedas	
+161	Rodentia	Muridae	Archboldomys musseri	17.7	122.03		Fieldiana Zool. n.s. 89:17	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete	
+162	Rodentia	Muridae	Batomys russatus	13.47	122.02		Am. Mus. Novit. 3237:34	I	1998	Musser, Heaney, and Tabaranza, Jr.	
+163	Rodentia	Muridae	Bullimus gamay	9.18	124.72		J. Mammal. 83:427	I	2002	Rickart, Heaney, and Tabaranza, Jr.	
+164	Rodentia	Muridae	Chrotomys sibuyanensis	12.35	122.65		J. Mammal 86:420	I	2005	Rickart, Heaney, Goodman, and Jansa	
+165	Rodentia	Muridae	Crateromys heaneyi	11.02	122.23		J. Mammal. 76:26	I	1996	Gonzales and Kennedy	
+166	Rodentia	Muridae	Crunomys suncoides	8.15	124.85		Fieldiana Zool. n.s. 89:8	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete	
+167	Rodentia	Muridae	Dasymys cabrali	-17.93	20.42		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:39	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E.Verheyen	
+168	Rodentia	Muridae	Dasymys robertsii	-25.82	28.08		Mammalia 68:219	C	2004	Mullin, Pillay, Taylor	
+169	Rodentia	Muridae	Dasymys rwandae	-1.43	29.6		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:45	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E. Verheyen	
+170	Rodentia	Muridae	Dasymys shortridgei	-19.57	18.12		Mammalia 68:219	C	2004	Mullin, Pillay, and Taylor	
+171	Rodentia	Muridae	Dasymys sua	-6.87	37.68		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:41	C	2003	W. Verheyen, Hulselmans, Dierckx,  Colyn, Leirs, and E. Verheyen	
+172	Rodentia	Muridae	Desmomys yaldeni	7.07	35.5		Bonn. Zool. Beitr. 50:320	C	2003	Lavrenchenko	
+173	Rodentia	Muridae	Hadromys schmidlyi	18.72	-99.77		Proc. Biol. Soc. Wash. 118:608	C	2005	Leon-Paniagua and Sanchez	
+174	Rodentia	Muridae	Hydromys ziegleri	-3.65	143.05		Zootaxa 913:1	I	2005	Helgen	
+175	Rodentia	Muridae	Hylomyscus acrimontensis	-5.1	38.6		Proc. Biol. Soc. Wash. 118:629	C	2005	Carleton and Stanley	
+176	Rodentia	Muridae	Limnomys bryophilus	8.15	124.85		J. Mammal. 84:1445	I	2003	Rickart, Heaney, and Tabaranza	
+177	Rodentia	Muridae	Mastomys awashensis	8.38	39.15		In Lavrenhenko et al., Z. Säugetierk. 63:44	C	1998	Lavrenchenko Likhnova, and Baskevich	
+178	Rodentia	Muridae	Melomys bannisteri	-5.45	133.03		Rec. W. Aust. Mus. 16:428	I	1993	Kitchener and Maryanto	
+179	Rodentia	Muridae	Melomys cooperae	-7.87	131.42		In Kitchener and Maryanto, Rec. W. Aust. Mus. 17:43	I	1995	Kitchener	
+180	Rodentia	Muridae	Melomys howi	-8.15	130.88		In Kitchener and Suyanto, Rec. W. Aust. Mus. 18:113	I	1996	Kitchener	
+181	Rodentia	Muridae	Melomys matambuai	-2.13	147.08		Proc. Linn. Soc. N.S.W. 114:39	I	1994	Flannery, Colgan, and Trimble	
+182	Rodentia	Muridae	Melomys paveli	-3.25	129.5		J. Zool. Lond. 261:168	I	2003	Helgen	
+183	Rodentia	Muridae	Mus cypriacus	34.77	32.92		Zootaxa 1241:13	I	2006	Cucchi, Orth, Auffray, Renaud, Fabre, Catalan, Hadjisterkotis, Bonhomme and Vigne	
+184	Rodentia	Muridae	Mus fragilicauda	14.54	101.96		Zoologica Scripta 32:121	C	2003	Auffray, Orth, Catalan, Gonzalez, Desmarais, and Bonhomme	
+185	Rodentia	Muridae	Paramelomys gressitti	-7.35	146.67		Aust. J. Zool. 44:407	I	1996	Menzies	
+186	Rodentia	Muridae	Pithecheirops otion	4.97	117.8		Proc. Biol. Soc. Wash. 106:753	I	1993	Emmons	
+187	Rodentia	Muridae	Praomys degraaffi	-3.43	29.77		S. Afr. J. Zool. 34:81	C	1999	Van der Straeten and Kerbis Peterhans	
+188	Rodentia	Muridae	Praomys petteri	3.9	17.93		Bonn. Zool. Beitr. 50:333	C	2003	Van der Straeten, Lecompte, and Denys	
+189	Rodentia	Muridae	Pseudohydromys germani	-9.88	149.38		Mamm. Biol. 70:62	I	2005	Helgen	
+190	Rodentia	Muridae	Saxatilomys paulinae	17.55	104.83		Am. Mus. Novit. 3497:1	C	2005	Musser et al.	
+191	Rodentia	Muridae	Sommeromys macrorhinos	-2.22	120.07		Am. Mus. Novit. 3368:7	I	2002	Musser and Durden	
+192	Rodentia	Muridae	Tonkinomys daovantieni	21.68	106.34		Am. Mus. Novit. 3517:7	C	2006	Musser, Lunde, and Son	
+193	Rodentia	Muridae	Uromys boeadii	-0.09	135		Rec. Aust. Mus. 46:157	I	1994	Groves and Flannery	
+194	Rodentia	Muridae	Uromys emmae	-1.27	136.43		Rec. Aust. Mus. 46:159	I	1994	Groves and Flannery	
 195	Rodentia	Diatomyidae	Laonastes aenigmamus	17.56	104.82		Systematics and Biodiversity 2:419	C	2005	Jenkins, Kilpatrick, Robinson, and Timmins	
 196	Rodentia	Bathyergidae	Cryptomys anselli	-15.17	28.75		Z. Säugetierk. 64:37	C	1999	Burda, Zima, Scharff, Macholán,and Kawalika	
 197	Rodentia	Bathyergidae	Cryptomys kafuensis	-15.5	25.5		Z. Säugetierk. 64:39	C	1999	Burda, Zima, Scharff, Macholán and Kawalika	
