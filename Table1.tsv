@@ -1,342 +1,342 @@
-ID	Order	Family	Species	Latitude	Longtitude	Image URL	Citation	Locality	Year	Author	Wiki URL
-1	Monotremata	Tachyglossidae	Zaglossus attenboroughi	-2.53	140.63	http://www.charlottezoologicalpark.org/rteimages/Long-beaked-echidna.jpg	Mammalia 62:387	I	1998	Flannery and Groves	http://en.wikipedia.org/wiki/Sir_David%27s_long-beaked_echidna
-2	Didelphimorphia	Didelphidae	Gracilinanus ignitus	-23.63	-64.47	http://t3.gstatic.com/images?q=tbn:ANd9GcQuuw1VZTUCh2ldhabpzTcl3d7kKFSVW6CAF9o0zsovNbEM0t1A	J. Mammal 83:825	C	2002	Diaz, Flores, and Barquez	http://eu.wikipedia.org/wiki/Gracilinanus_ignitus
-3	Didelphimorphia	Didelphidae	Hyladelphys kalinowskii	-13.5	-70.92	http://www.sciencephoto.com/image/106771/large/C0042558-Kalinowski_s_Mouse_Opossum-SPL.jpg	Fieldiana Zool., n.s., 70:37	C	1992	(Hershkovitz)	http://en.wikipedia.org/wiki/Kalinowski%27s_mouse_opossum
-4	Didelphimorphia	Didelphidae	Marmosops creightoni	-16.12	-68.08	http://www.technogypsie.com/photogallery/2011/apr/041511/JPEG/041511-047.jpg	Am. Mus. Novit. 3466:11	C	2004	Voss, Tarifa, and  Yensen 2004	
-5	Didelphimorphia	Didelphidae	Monodelphis reigi	5.97	-61.42	http://content62.eol.org/content/2011/11/25/01/54453_88_88.jpg	Mem. Fund. La Salle Cienc.  Nat. 159-160:9	C	2004	Lew and Pérez- Hernández	
-6	Didelphimorphia	Didelphidae	Monodelphis ronaldi	-11.93	-71.28		Mamm. Biol. 69:146	C	2004	Solari	
-7	Didelphimorphia	Didelphidae	Philander deltae	10	-62.82	http://www.google.co.uk/imgres?q=Philander+deltae&hl=en&gbv=2&tbm=isch&tbnid=ahwoxVgO1rvNbM:&imgrefurl=http://mamiferosdomundo.blogspot.com/2011/07/familia-didelphidae.html&docid=7VfQtD718bnzrM&imgurl=http://4.bp.blogspot.com/-ISbWXMAiifQ/ThGsGgwxuDI/AAAAAAAADCY/-kBQ4P8W6VY/s1600/CaluPhi5.jpg&w=561&h=362&ei=bWpGT8ltwsnRBbqf6akO&zoom=1&biw=1280&bih=837	J. Mammal.  87:224	C	2006	Lew, Perez- Hernandez, and  Ventura	
-8	Didelphimorphia	Didelphidae	Philander mondolfii	8	-61.5	?? same?	J. Mammal.  87:229	C	2006	Lew, Perez- Hernandez, and  Ventura	
-9	Paucituberculata	Caenolestidae	Caenolestes condorensis	-2.27	-78.73	http://www.nysm.nysed.gov/mammalsrevealed/species/images/new-shrew3.jpg	J. Mammal. 77:42	C	1996	Albuja and Patterson	
-10	Dasyuromorphia	Dasyuridae	Myoictis leucura	-6.28	142.75		Rec. Aust. Mus. 57:334	I	2005	Woolley	
-11	Dasyuromorphia	Dasyuridae	Pseudantechinus roryi	-21.61	118	http://t1.gstatic.com/images?q=tbn:ANd9GcQUop4Guh6-sP9FGVU2xJnCBocIVGQTrJ7hcUDRNeD6XXyCizUyda3uGld7	Rec. W. Aust. Mus. 20:125	C	2000	Cooper, Aplin and Adams	
-12	Dasyuromorphia	Dasyuridae	Antechinus agilis	-22.19	148.84	http://www.estherbeaton.com/stock/CuteFurry/img/JWAAJ-1640.jpg	Aust. J. Zool.  46:5	C	1998	Dickman, Parnaby, Crowther and King	
-13	Dasyuromorphia	Dasyuridae	Antechinus subtropicus	-28.22	152.42		Mem. Qld. Mus. 45:613	C	2000	Van Dyck and Crowther	
-14	Dasyuromorphia	Dasyuridae	Sminthopsis bindi	-14.5	132.75	http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sminthopsis_murina.jpg/220px-Sminthopsis_murina.jpg	Mem. Qld.  Mus. 37:312	C	1994	Van Dyck, Woinarski and Press	
-15	Dasyuromorphia	Dasyuridae	Sminthopsis boullangerensis	-30.3	115.03		Aust. J. Zool.  47:220	I	1999	Crowther, Dickman and Lynam	
-16	Peramelemorphia	Peramelidae	Microperoryctes aplini	-1.38	133.97		J. Zool. 264:117	I	2004	Helgen and Flannery	
-17	Diprotodontia	Phalangeridae	Phalanger alexandrae	-0.08	129.42	http://3.bp.blogspot.com/-fBDMwrgeJXY/Tg51Y05rEQI/AAAAAAAAC6o/VLH3mg2TcCk/s1600/Cuscus3.jpg	Aust. Mammal. 18:42	I	1995	Flannery and Boeadi	
-18	Diprotodontia	Phalangeridae	Phalanger matabiru	0.83	127.3		Aust. Mammal. 18:40	I	1995	Flannery and Boeadi	
-19	Diprotodontia	Phalangeridae	Spilocuscus wilsoni	-0.87	135		J. Mammal. 85:826	I	2004	Helgen and Flannery	
-20	Diprotodontia	Phalangeridae	Trichosurus cunninghami	-37.33	145.53		Aust. J. Zool.  50:17	C	2002	Lindemayer, Dubach and Viggers	
-21	Diprotodontia	Macropodidae	Dendrolagus mbaiso	-4.08	137.1	http://alamendah.files.wordpress.com/2009/08/dendrolagus-mbaiso.jpg	Mammalia  59:66	I	1995	Flannery, Boeadi and Szalay	
-22	Diprotodontia	Macropodidae	Petrogale coenensis	-13.78	143.07	http://awsassets.panda.org/img/yellowfootedrockwallaby_364827.jpg	Aust. J. Zool. 40:621	C	1992	Eldredge and Close	
-23	Diprotodontia	Macropodidae	Petrogale mareeba	-17.1	144.38		Aust. J. Zool. 40:619	C	1992	Eldredge and Close	
-24	Diprotodontia	Macropodidae	Petrogale sharmani	-18.87	145.73		Aust. J. Zool. 40:618	C	1992	Eldredge and Close	
-25	Diprotodontia	Macropodidae	Thylogale calabyi	-8.41	147.38		Aust. Mammal. 15:18	I	1992	Eldredge and Close	
-26	Afrosoricida	Tenrecidae	Microgale fotsifotsy	-12.48	49.17		Bull. Am. Mus. Nat. Hist. 63:2	I	1997	Jenkins, Raxworthy and Nussbaum	
-27	Afrosoricida	Tenrecidae	Microgale gymnorhyncha	-22.19	46.97		Fieldiana Zool.  n.s. 85:211	I	1996	Jenkins, Goodman and Raxworthy	
-28	Afrosoricida	Tenrecidae	Microgale jenkinsae	-22.77	43.52		Proc. Biol. Soc. Wash. 117:253	I	2004	Goodman and Soarimalala	
-29	Afrosoricida	Tenrecidae	Microgale monticola	-14.73	49.43		Fieldiana Zool. n.s. 90:149	I	1998	Goodman and Jenkins	
-30	Afrosoricida	Tenrecidae	Microgale nasoloi	-22.46	44.84		Bull. Nat. Hist. Mus. Lond.  (Zool.) 65:156	I	1999	Jenkins and  Goodman	
-31	Afrosoricida	Tenrecidae	Microgale soricoides	-18.85	48.45		Am. Mus. Novit. 3067:2	I	1993	Jenkins	
-32	Afrosoricida	Chrysochloridae	Amblysomus robustus	-25.3	30.13		Mammalia 64:42	C	2000	Bronner	
-33	Cingulata	Dasypodidae	Dasypus yepesi	-23.07	-64.92		Mastozool. Trop. 2:7	C	1995	Vizcaíno	
-34	Pilosa	Bradypodidae	Bradypus pygmaeus	9.1	-81.55		Proc. Biol. Soc. Wash. 114:17	I	2001	Anderson and Handley	
-35	Primates	Cheirogaleidae	Cheirogaleus minusculus	-20.52	47.32		Int. J. Primatol.  21:960	I	2000	Groves	
-36	Primates	Cheirogaleidae	Cheirogaleus ravus	-18.16	49.38		Int. J. Primatol. 21:960	I	2000	Groves	
-37	Primates	Cheirogaleidae	Microcebus berthae	-22.07	44.65		Int. J. Primatol.  21:1001	I	2000	Rasoloarison, Goodman and  Ganzhorn	
-38	Primates	Cheirogaleidae	Microcebus jollyae	-21.38	47.87		Int. J. Primatol. 27:382	I	2006	Louis et al.	
-39	Primates	Cheirogaleidae	Microcebus mittermeieri	-14.8	49.47		Int. J. Primatol. 27:381	I	2006	Louis et al.	
-40	Primates	Cheirogaleidae	Microcebus ravelobensis	-16.58	46.87		Primate Eye 63:26	I	1997	Zimmermann, Ehresmann, Zietemann, Radespiel, Randrianambinina, and Rakotoarison	
-41	Primates	Cheirogaleidae	Microcebus sambiranensis	-14.03	48.27		Int. J. Primatol. 21:982	I	2000	Rasoloarison, Goodman and  Ganzhorn	
-42	Primates	Cheirogaleidae	Microcebus simmoni	-17.93	49.2		Int. J. Primatol. 27:383	I	2006	Louis et al.	
-43	Primates	Cheirogaleidae	Microcebus tavaratra	-13.08	49.1		Int. J. Primatol.  21:977	I	2000	Rasoloarison, Goodman and  Ganzhorn	
-44	Primates	Cheirogaleidae	Mirza zaza	-13.67	48.25		Primate Report 71:18	I	2005	Kappeler and Roos	
-45	Primates	Lepilemuridae	Lepilemur aeclis	-16.05	45.91		BMC Evolutionary Biology 6(17) epub, page not  available	I	2006	Andriaholinirina et al.	
-46	Primates	Lepilemuridae	Lepilemur randrianasoli	-19.47	44.29		BMC Evolutionary Biology 6(17) epub, page not available	I	2006	Andriaholinirina  et al.	
-47	Primates	Lepilemuridae	Lepilemur sahamalazensis	-14.37	47.75		BMC Evolutionary Biology 6(17)epub, page not available	I	2006	Andriaholinirina  et al.	
-48	Primates	Indridae	Avahi cleesei	-18.98	44.75		Am. J. Primatol. 67:373	I	2005	Thalmann and Geissmann	
-49	Primates	Indridae	Avahi unicolor	-13.58	47.95		Int. J. Primatol. 21:934	I	2000	Thalmann and Geissmann	
-50	Primates	Lorisidae	Pseudopotto martini	unknown	unknown		Anthropol. Pap. Amer. Mus. Nat.  Hist. 78:8	C	1996	Schwartz	
-51	Primates	Galagidae	Galago rondoensis	-10.12	39.38		In Kingdon, Kingdon Field Guide to African  Mammals, p. 106	C	1997	Honess	
-52	Primates	Tarsiidae	Tarsius lariang	-1.63	120.03		Int. J. Primatol. 27:465	I	2006	Merker and Groves	
-53	Primates	Cebidae	Callithrix acariensis	-5.12	-60.02		Neotropical  Primates 8:7	C	2000	M. van Roosmalen, T. van Roosmalen, Mittermeier and  Rylands	
-54	Primates	Cebidae	Callithrix humilis	-5.52	-60.42		Goeldiana  Zoologia 22:8	C	1998	M. van Roosmalen, T. van Roosmalen, Mittermeier and  de Fonseca	
-55	Primates	Cebidae	Callithrix manicorensis	-5.84	-61.31		Neotropical  Primates 8:3	C	2000	M. van Roosmalen, T. van Roosmalen, Mittermeier and  Rylands	
-56	Primates	Cebidae	Callithrix marcai	-7	-60.95		Bol. Mus. Para. Emilio Goeldi,  ser. Zool. 9:325	C	1993	Alperin	
-57	Primates	Cebidae	Callithrix mauesi	-3.38	-57.77		Goeldiana  Zoologia 14:6	C	1992	Mittermeier, M. Schwarz  and Ayres	
-58	Primates	Cebidae	Callithrix nigriceps	-7.52	-62.87		Goeldiana Zoologia 12:4	C	1992	Ferrari and Lopes	
-59	Primates	Cebidae	Callithrix saterei	-4	-59.09		Goeldiana Zoologia 21:6	C	1998	Silva and Noronha	
-60	Primates	Cebidae	Cebus kaapori	-0.5	-47.5		Goeldiana Zoologia 15:4	C	1992	Queiroz	
-61	Primates	Cebidae	Cebus queirozi	-8.4	-35.07		Zootaxa 1200:2	C	2006	Mendes Pontes and Malta	
-62	Primates	Pitheciidae	Callicebus bernhardi	-5.52	-60.42		Neotropical  Primates 10 (Suppl.):24	C	2002	M. van Roosmalen, T. van Roosmalen and Mittermeier	
-63	Primates	Pitheciidae	Callicebus coimbrai	-10.53	-36.68		Rev. Bras. Zool. 16:534	C	1999	Kobayashi and Langguth	
-64	Primates	Pitheciidae	Callicebus stephennashi	-3.75	-59		Neotropical  Primates 10 (Suppl.):15	C	2002	M. van Roosmalen, T. van Roosmalen  and Mittermeier	
-65	Primates	Cercopithecidae	Lophocebus kipunji	-9.15	33.83		In Jones et al., Science  308:1161	C	2005	Ehardt, Butynski, Jones, and Davenport	
-66	Primates	Cercopithecidae	Macaca munzala	27.7	91.72		Int. J. Primatol 26:980	C	2005	Sinha, Datta, Madhusudan, and Mishra	
-67	Primates	Cercopithecidae	Macaca siberu	-1.35	98.92		Asian Primates 4:1	I	1995	Fuentes and Olson	
-68	Primates	Cercopithecidae	Miopithecus ogouensis	1.5	10		Kingdon Field Guide to African Mammals, p. 55	C	1997	Kingdon	
-69	Primates	Cercopithecidae	Pygathrix cinerea	13.98	108		Zool. Garten NF 67:165	C	1997	Nadler	
-70	Primates	Cercopithecidae	Trachypithecus ebenus	22.5	103.83		Rafﬂes Bulletin of Zoology   43:15	C	1995	Brandon-Jones	
-71	Rodentia	Gliridae	Dryomys niethammeri	30.38	67.72		Bonn. Zool.   Beitr. 46:116	C	1996	Holden	
-72	Rodentia	Heteromyidae	Heteromys nubicolens	10.3	-84.8		Am. Mus.  Novit. 3509:7	C	2006	Anderson and Timm	
-73	Rodentia	Heteromyidae	Heteromys oasicus	11.83	-69.95		Am. Mus. Novit. 3396:9	C	2003	Anderson	
-74	Rodentia	Heteromyidae	Heteromys teleus	-1.83	-80.73		Am. Mus. Novit. 3382:6	C	2002	Anderson and Jarrín-V.	
-75	Rodentia	Spalacidae	Spalax carmeli	32.8	34.98		Adaptive Radiation of Blind Subterranean Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles	
-76	Rodentia	Spalacidae	Spalax galili	33	35.5		Adaptive Radiation of Blind Subterranean Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles	
-77	Rodentia	Spalacidae	Spalax golani	33.13	35.82		Adaptive Radiation  of Blind Subterranean  Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles	
-78	Rodentia	Spalacidae	Spalax judaei	31.38	34.87		Adaptive Radiation  of Blind  Subterranean  Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles	
-79	Rodentia	Spalacidae	Spalax munzuri	39.73	39.28		Zoology in the Middle  East 33:157	C	2004	(Coskun 2004)	
-80	Rodentia	Nesomyidae	Eliurus antsingy	-19.13	44.82		Proc. Biol.   Soc. Wash. 114:974	I	2001	Carleton, Goodman, and Rakotondravony	
-81	Rodentia	Nesomyidae	Eliurus ellermani	-15.5	49.93		Am. Mus. Novit. 3087:39	I	1994	Carleton	
-82	Rodentia	Nesomyidae	Eliurus grandidieri	-14.74	49.46		Fieldiana Zool. n.s. 90:165	I	1998	Carleton and Goodman	
-83	Rodentia	Nesomyidae	Eliurus petteri	-18.92	48.57		Am. Mus. Novit. 3087:37	I	1994	Carleton 1994	
-84	Rodentia	Nesomyidae	Macrotarsomys petteri	-22.27	43.47		Proc. Biol. Soc. Wash.  118:453	I	2005	Goodman and  Soarimalala	
-85	Rodentia	Nesomyidae	Monticolomys koopmani	-19.3	47.43		Fieldiana Zool. n.s. 85:235	I	1996	Carleton and Goodman	
-86	Rodentia	Nesomyidae	Voalavo antsahabensis	-18.42	47.94		Proc. Biol.  Soc. Wash. 118:866	I	2005	Goodman, Rakotondravony, Randriamanantsoa, and Rakotomalala- Razanahoera	
-87	Rodentia	Nesomyidae	Voalavo gymnocaudus	-14.75	49.43		Fieldiana Zool. n.s. 85:182	I	1998	Carleton and Goodman	
-88	Rodentia	Cricetidae	Microtus anatolicus	37.87	32.48		Bonn. Zool. Beitr. 50:8	C	2002	Kryštufek and Kefelioğlu	
-89	Rodentia	Cricetidae	Microtus dogramacii	41.67	35.6		J. Nat. Hist. 33:301	C	1999	Kefelioğlu and Kryštufek	
-90	Rodentia	Cricetidae	Microtus qazvinensis	35.65	49.97		Russian J. Theriol. 1:118	C	2003	Golenishchev	
-91	Rodentia	Cricetidae	Habromys delicatulus	19.93	-99.5		Proc. Biol. Soc. Wash. 115:491	C	2002	Carleton, Sánchez, and Urbano Vidales	
-92	Rodentia	Cricetidae	Peromyscus schmidlyi	24.25	-104.7		J. Mammal. 85:1190	C	2004	Bradley, Carroll, Haynie, Martínez, Hamilton, and  Kilpatrick	
-93	Rodentia	Cricetidae	Reithrodontomys bakeri	17.65	-99.84		Occ. Pap. Mus. Texas Tech.Univ. 231:i, 7	C	2004	Bradley, Mendez- Harclerode,  Hamilton, and Ceballos	
-94	Rodentia	Cricetidae	Aepeomys reigi	9.67	-69.62		Mamm. Biol. 66:230	C	2001	Ochoa G., Aguilera, Pacheco, and  Soriano	
-95	Rodentia	Cricetidae	Akodon aliquantulus	-26.7	-65.37		J. Mammal. 80:788	C	1999	Díaz, Barquez, Braun, and  Mares	
-96	Rodentia	Cricetidae	Akodon mystax	-20.43	-41.78		Bonn. Zool. Beitr. 47:220	C	1998	Hershkovitz	
-97	Rodentia	Cricetidae	Akodon oenos	-32.8	-68.67		Z. Säugetierk.65:218	C	2000	Braun, Mares, and Ojeda	
-98	Rodentia	Cricetidae	Akodon paranaensis	-25.52	-49.05		J. Mammal. 81:844	C	2000	Christoff, Fagundes, Sbalqueiro, Mattevi, and Yonenaga- Yassuda	
-99	Rodentia	Cricetidae	Akodon philipmyersi	-27.53	-55.87		J. Mammal. 86:465	C	2005	Pardinas, D’Elia, Cirignoll, and  Suarez	
-100	Rodentia	Cricetidae	Akodon reigi	-34	-54.67		Comun. Zool. Hist. Nat. Mus. Montevideo12:2	C	1998	González, Langguth, and Oliveira	
-101	Rodentia	Cricetidae	Amphinectomys savamis	-4.92	-73.75		In Malygin et al., Zool. Zhur.  73:203	C	1994	Malygin	
-102	Rodentia	Cricetidae	Andalgalomys roigi	-36.21	-66.66		J. Mammal. 77:929	C	1996	Mares and Braun	
-103	Rodentia	Cricetidae	Brucepattersonius albinasus	-20.43	-41.78		Bonn. Zool. Beitr. 47:235	C	1998	Hershkovitz	
-104	Rodentia	Cricetidae	Brucepattersonius griserufescens	-20.43	-41.78		Bonn. Zool. Beitr. 47:233	C	1998	Hershkovitz	
-105	Rodentia	Cricetidae	Brucepattersonius guarani	-27	-54		Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:9	C	2000	Mares and Braun	
-106	Rodentia	Cricetidae	Brucepattersonius igniventris	-24.58	-48.58		Bonn. Zool. Beitr. 47:232	C	1998	Hershkovitz	
-107	Rodentia	Cricetidae	Brucepattersonius misionensis	-27	-54		Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:7	C	2000	Mares and Braun	
-108	Rodentia	Cricetidae	Brucepattersonius paradisus	-27	-54		Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:3	C	2000	Mares and Braun	
-109	Rodentia	Cricetidae	Brucepattersonius soricinus	-24.25	-47.75		Bonn. Zool. Beitr. 47:232	C	1998	Hershkovitz	
-110	Rodentia	Cricetidae	Calomys tocantinsi	-11.78	-49.75		Rev. Bras. Zool. 20:301	C	2003	Bonvicino, Lima, and Almeida	
-111	Rodentia	Cricetidae	Chibchanomys orcesi	-2.83	-79.5		Bull. Nat. Hist. Mus. Lond. 63:124	C	1997	Jenkins and  Barnett	
-112	Rodentia	Cricetidae	Juliomys rimofrons	-22.35	-44.73		Acta Theriol. 47:310	C	2002	Oliveira and Bonvicino	
-113	Rodentia	Cricetidae	Juscelinomys guaporensis	-13.55	-61.01		Am. Mus. Novit. 3280:4	C	1999	Emmons	
-114	Rodentia	Cricetidae	Juscelinomys huanchacae	-14.52	-60.74		Am. Mus. Novit. 3280:2	C	1999	Emmons	
-115	Rodentia	Cricetidae	Loxodontomys pikumche	-34.17	-69.97		Rev. Chilena Hist. Nat. 71:362	C	1998	Spotorno, Cofre, Manriquez,  Vilina, Marquet, and Walker	
-116	Rodentia	Cricetidae	Microakodontomys transitorius	-15.78	-47.92		Fieldiana Zool. n.s. 75:2	C	1998	Hershkovitz	
-117	Rodentia	Cricetidae	Neacomys dubosti	5.03	-53		Bull. Am. Mus. Nat. Hist. 263:78	C	2001	Voss, Lunde, and Simmons	
-118	Rodentia	Cricetidae	Neacomys minutus	-6.58	-68.9		Bull. Am. Mus. Nat. Hist. 244:105	C	2000	Patton, da Silva, and Malcolm	
-119	Rodentia	Cricetidae	Neacomys musseri	-12.25	-70.9		Bull. Am. Mus. Nat. Hist. 244:98	C	2000	Patton, da Silva, and Malcolm	
-120	Rodentia	Cricetidae	Neacomys paracou	5.03	-53		Bull. Am. Mus. Nat. Hist. 263:81	C	2001	Voss, Lunde, and Simmons	
-121	Rodentia	Cricetidae	Neusticomys ferreirai	-10.23	-58.48		J. Mammal. 86:874	C	2005	Percequillo, Carmignotto, and de J. Silva	
-122	Rodentia	Cricetidae	Noronhomys vespuccii	-3.83	-32.4		Am. Mus. Novit. 3256:10	C	1999	Carleton and Olson	
-123	Rodentia	Cricetidae	Oligoryzomys brendae	-26.78	-65.4		2nd Congreso Argentino de Zoonosis y 1st Congreso Argentino y Latinamericano de Enfermedades Emergentes, Buenos Aires, p. 243	C	1998	Massoia	
-124	Rodentia	Cricetidae	Oligoryzomys moojeni	-14.07	-47.75		Arquivos de Museu Nacional (Rio de Janeiro) 63:116	C	2005	Weksler and  Bonvicino	
-125	Rodentia	Cricetidae	Oligoryzomys rupestris	-14.07	-47.52		Arquivos de Museu Nacional (Rio de Janeiro) 63:119	C	2005	Weksler and  Bonvicino	
-126	Rodentia	Cricetidae	Oligoryzomys stramineus	-13.57	-47.18		Z. Säugetierk. 63:98	C	1998	Bonvicino and Weksler	
-127	Rodentia	Cricetidae	Oryzomys acritus	-14.71	-61.03		Am. Mus. Novit. 3478:14	C	2005	Emmons and Patton	
-128	Rodentia	Cricetidae	Oryzomys andersoni	-17.6	-59.51		In Brooks et al., Occ. Pap. Mus. Texas Tech Univ. 241:3	C	2004	Brooks and Baker	
-129	Rodentia	Cricetidae	Oryzomys curasoae	12.17	-69		Caribbean J. Sci. 37:182	I	2001	McFarlane and Debrot	
-130	Rodentia	Cricetidae	Oryzomys emmonsae	-3.65	-52.37		Bull. Am. Mus. Nat. Hist. 236:233	C	1998	Musser, Carleton,  Brothers, and Gardner	
-131	Rodentia	Cricetidae	Oryzomys maracajuensis	-21.63	-55.15		Arquivos de Museu Nacional (Rio de Janeiro) 60:292	C	2002	Langguth and  Bonvicino	
-132	Rodentia	Cricetidae	Oryzomys marinhus	-14.67	-45.83		Mamm. Biol. 68:84	C	2003	Bonvicino	
-133	Rodentia	Cricetidae	Oryzomys scotti	-15.9	-48.8		Arquivos de Museu Nacional (Rio de Janeiro) 60:290	C	2002	Langguth and Bonvicino	
-134	Rodentia	Cricetidae	Oryzomys seuanezi	-22.42	-42.03		Zool. J. Linn. Soc. 125:454	C	1999	Weksler, Geise, and Cerqueira	
-135	Rodentia	Cricetidae	Oryzomys tatei	-1.42	-78.2		Bull. Am. Mus. Nat. Hist.236:100	C	1998	Musser, Carleton, Brothers, and Gardner	
-136	Rodentia	Cricetidae	Oxymycterus amazonicus	-3.67	-55.5		Fieldiana Zool. n.s. 79:23	C	1994	Hershkovitz	
-137	Rodentia	Cricetidae	Oxymycterus caparoae	-20.43	-41.78		Bonn. Zool. Beitr. 47:244	C	1998	Hershkovitz	
-138	Rodentia	Cricetidae	Oxymycterus josei	-34.22	-57.82		J. Mammal. 83:411	C	2002	Hoffmann, Lessa, and  Smith	
-139	Rodentia	Cricetidae	Pearsonomys annectens	-39.43	-73.17		Zool. J. Linn. Soc. 106:136	C	1992	Patterson	
-140	Rodentia	Cricetidae	Punomys kofordi	-14.28	-69.78		Z. Säugetierk.60:86	C	1995	Pacheco and Patton	
-141	Rodentia	Cricetidae	Rhagomys longilingua	-13.1	-71.57		Fieldiana Zool. n.s. 101:3	C	2003	Luna and Patterson	
-142	Rodentia	Cricetidae	Rhipidomys cariri	-7.23	-39.38		Arquivos de Museu Nacional (Rio de Janeiro) 63:137	C	2005	Tribe	
-143	Rodentia	Cricetidae	Rhipidomys gardneri	-12.55	-69.05		Bull. Am. Mus. Nat. Hist. 244:165	C	2000	Patton, da Silva, and Malcolm	
-144	Rodentia	Cricetidae	Salinomys delicatus	-32	-67		J. Mammal.76:514	C	1995	Braun and Mares	
-145	Rodentia	Cricetidae	Tapecomys primus	-21.43	-63.92		J. Mammal.81:21	C	2000	Anderson and Yates	
-146	Rodentia	Cricetidae	Thomasomys apeco	-7.75	-77.25		Proc. Biol. Soc. Wash. 106:417	C	1993	Leo L. and Gardner	
-147	Rodentia	Cricetidae	Thomasomys macrotis	-7.75	-77.25		Proc. Biol. Soc. Wash. 106:762	C	2002	Gardner and Romo R.	
-148	Rodentia	Cricetidae	Thomasomys onkiro	-11.66	-73.67		J. Mammal.83:835	C	2003	Luna and Pacheco	
-149	Rodentia	Cricetidae	Thomasomys ucucha	-0.37	-78.13		Am. Mus. Novit. 3421:10	C	2003	Voss	
-150	Rodentia	Cricetidae	Wiedomys cerradensis	-14.63	-45.85		Mamm. Biol. 70:51	C	2005	Gonçalves, Almeida, and  Bonvicino	
-151	Rodentia	Muridae	Lophuromys angolensis	-5.05	18.92		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 70:255	C	2000	W. Verheyen, Dierckx, and Hulselmans	
-152	Rodentia	Muridae	Lophuromys dieterleni	6.2	10.53		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:173	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer	
-153	Rodentia	Muridae	Lophuromys dudui	0.6	25.22		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72:147	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen	
-154	Rodentia	Muridae	Lophuromys huttereri	0.2	24.78		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 66:255	C	1996	W. Verheyen, Colyn, and Hulselmans	
-155	Rodentia	Muridae	Lophuromys roseveari	4.17	9.17		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:167	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer	
-156	Rodentia	Muridae	Lophuromys verhageni	-3.25	36.73		Bull. Inst. Roy. Sci. Nat. Belgique,  Biol. 72:153	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen	
-157	Rodentia	Muridae	Dipodillus rupicola	14.47	-4.09		J. Zool. Lond. 256:183	C	2002	Granjon, Aniskin, Volobouev, and Sicard	
-158	Rodentia	Muridae	Taterillus tranieri	15.02	-7.67		Mamm. Biol. 68:301	C	2003	Dobigny, Granjon, Aniskin, Ba, and Volobouev	
-159	Rodentia	Muridae	Apomys camiguinensis	9.17	124.72		Fieldiana Zool. n.s. 106:18	I	2000	Heaney and Tabaranza	
-160	Rodentia	Muridae	Apomys gracilirostris	13.28	121.99		Proc. Biol. Soc. Wash. 108:305	I	1995	Ruedas	
-161	Rodentia	Muridae	Archboldomys musseri	17.7	122.03		Fieldiana Zool. n.s. 89:17	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete	
-162	Rodentia	Muridae	Batomys russatus	13.47	122.02		Am. Mus. Novit. 3237:34	I	1998	Musser, Heaney, and Tabaranza, Jr.	
-163	Rodentia	Muridae	Bullimus gamay	9.18	124.72		J. Mammal. 83:427	I	2002	Rickart, Heaney, and Tabaranza, Jr.	
-164	Rodentia	Muridae	Chrotomys sibuyanensis	12.35	122.65		J. Mammal 86:420	I	2005	Rickart, Heaney, Goodman, and Jansa	
-165	Rodentia	Muridae	Crateromys heaneyi	11.02	122.23		J. Mammal. 76:26	I	1996	Gonzales and Kennedy	
-166	Rodentia	Muridae	Crunomys suncoides	8.15	124.85		Fieldiana Zool. n.s. 89:8	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete	
-167	Rodentia	Muridae	Dasymys cabrali	-17.93	20.42		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:39	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E.Verheyen	
-168	Rodentia	Muridae	Dasymys robertsii	-25.82	28.08		Mammalia 68:219	C	2004	Mullin, Pillay, Taylor	
-169	Rodentia	Muridae	Dasymys rwandae	-1.43	29.6		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:45	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E. Verheyen	
-170	Rodentia	Muridae	Dasymys shortridgei	-19.57	18.12		Mammalia 68:219	C	2004	Mullin, Pillay, and Taylor	
-171	Rodentia	Muridae	Dasymys sua	-6.87	37.68		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:41	C	2003	W. Verheyen, Hulselmans, Dierckx,  Colyn, Leirs, and E. Verheyen	
-172	Rodentia	Muridae	Desmomys yaldeni	7.07	35.5		Bonn. Zool. Beitr. 50:320	C	2003	Lavrenchenko	
-173	Rodentia	Muridae	Hadromys schmidlyi	18.72	-99.77		Proc. Biol. Soc. Wash. 118:608	C	2005	Leon-Paniagua and Sanchez	
-174	Rodentia	Muridae	Hydromys ziegleri	-3.65	143.05		Zootaxa 913:1	I	2005	Helgen	
-175	Rodentia	Muridae	Hylomyscus acrimontensis	-5.1	38.6		Proc. Biol. Soc. Wash. 118:629	C	2005	Carleton and Stanley	
-176	Rodentia	Muridae	Limnomys bryophilus	8.15	124.85		J. Mammal. 84:1445	I	2003	Rickart, Heaney, and Tabaranza	
-177	Rodentia	Muridae	Mastomys awashensis	8.38	39.15		In Lavrenhenko et al., Z. Säugetierk. 63:44	C	1998	Lavrenchenko Likhnova, and Baskevich	
-178	Rodentia	Muridae	Melomys bannisteri	-5.45	133.03		Rec. W. Aust. Mus. 16:428	I	1993	Kitchener and Maryanto	
-179	Rodentia	Muridae	Melomys cooperae	-7.87	131.42		In Kitchener and Maryanto, Rec. W. Aust. Mus. 17:43	I	1995	Kitchener	
-180	Rodentia	Muridae	Melomys howi	-8.15	130.88		In Kitchener and Suyanto, Rec. W. Aust. Mus. 18:113	I	1996	Kitchener	
-181	Rodentia	Muridae	Melomys matambuai	-2.13	147.08		Proc. Linn. Soc. N.S.W. 114:39	I	1994	Flannery, Colgan, and Trimble	
-182	Rodentia	Muridae	Melomys paveli	-3.25	129.5		J. Zool. Lond. 261:168	I	2003	Helgen	
-183	Rodentia	Muridae	Mus cypriacus	34.77	32.92		Zootaxa 1241:13	I	2006	Cucchi, Orth, Auffray, Renaud, Fabre, Catalan, Hadjisterkotis, Bonhomme and Vigne	
-184	Rodentia	Muridae	Mus fragilicauda	14.54	101.96		Zoologica Scripta 32:121	C	2003	Auffray, Orth, Catalan, Gonzalez, Desmarais, and Bonhomme	
-185	Rodentia	Muridae	Paramelomys gressitti	-7.35	146.67		Aust. J. Zool. 44:407	I	1996	Menzies	
-186	Rodentia	Muridae	Pithecheirops otion	4.97	117.8		Proc. Biol. Soc. Wash. 106:753	I	1993	Emmons	
-187	Rodentia	Muridae	Praomys degraaffi	-3.43	29.77		S. Afr. J. Zool. 34:81	C	1999	Van der Straeten and Kerbis Peterhans	
-188	Rodentia	Muridae	Praomys petteri	3.9	17.93		Bonn. Zool. Beitr. 50:333	C	2003	Van der Straeten, Lecompte, and Denys	
-189	Rodentia	Muridae	Pseudohydromys germani	-9.88	149.38		Mamm. Biol. 70:62	I	2005	Helgen	
-190	Rodentia	Muridae	Saxatilomys paulinae	17.55	104.83		Am. Mus. Novit. 3497:1	C	2005	Musser et al.	
-191	Rodentia	Muridae	Sommeromys macrorhinos	-2.22	120.07		Am. Mus. Novit. 3368:7	I	2002	Musser and Durden	
-192	Rodentia	Muridae	Tonkinomys daovantieni	21.68	106.34		Am. Mus. Novit. 3517:7	C	2006	Musser, Lunde, and Son	
-193	Rodentia	Muridae	Uromys boeadii	-0.09	135		Rec. Aust. Mus. 46:157	I	1994	Groves and Flannery	
-194	Rodentia	Muridae	Uromys emmae	-1.27	136.43		Rec. Aust. Mus. 46:159	I	1994	Groves and Flannery	
-195	Rodentia	Diatomyidae	Laonastes aenigmamus	17.56	104.82		Systematics and Biodiversity 2:419	C	2005	Jenkins, Kilpatrick, Robinson, and Timmins	
-196	Rodentia	Bathyergidae	Cryptomys anselli	-15.17	28.75		Z. Säugetierk. 64:37	C	1999	Burda, Zima, Scharff, Macholán,and Kawalika	
-197	Rodentia	Bathyergidae	Cryptomys kafuensis	-15.5	25.5		Z. Säugetierk. 64:39	C	1999	Burda, Zima, Scharff, Macholán and Kawalika	
-198	Rodentia	Erethizontidae	Sphiggurus ichillus	-1.8	-76.8		Am. Mus. Novit. 3351:17	C	2001	Voss and da Silva	
-199	Rodentia	Erethizontidae	Sphiggurus roosmalenorum	-5.56	-61.12		Am. Mus. Novit. 3351:24	C	2001	Voss and da Silva	
-200	Rodentia	Caviidae	Cavia intermedia	-27.85	-43.33		Biotemas 12:100	I	1999	Cherem, Olimpio, and Ximenez	
-201	Rodentia	Caviidae	Galea monasteriensis	-17.38	-66.15		Senk. Biol. 84:150	C	2004	Solmsdorff, Kock, Hohoff, and Sachser	
-202	Rodentia	Caviidae	Kerodon acrobata	-13.83	-46.83		Bol. Mus. Nac. Rio Janeiro Zool. 377:1	C	1997	Moojen, Locks, and Langguth	
-203	Rodentia	Ctenomyidae	Ctenomys coyhaiquensis	-46.55	-71.77		J. Mammal. 75:344	C	1994	Kelt and Gallardo	
-204	Rodentia	Ctenomyidae	Ctenomys lami	-30.85	-51.17		Stud. Neotrop. Fauna Envir. 36:2	C	2001	Freitas	
-205	Rodentia	Ctenomyidae	Ctenomys osvaldoreigi	-31.4	-64.8		Notulas Faunisticas 84:1	C	1995	Contreras	
-206	Rodentia	Ctenomyidae	Ctenomys pilarensis	-26.87	-58.3		Resúmenes VI Congreso Iberoamericano de Conservación v Zoología de Vertebrados, p. 44	C	1993	Contreras	
-207	Rodentia	Ctenomyidae	Ctenomys scagliai	-26.67	-65.85		Ciencia Siglo XXI 3:10	C	1999	Contreras	
-208	Rodentia	Octodontidae	Octodon pacificus	-38.37	-73.92		Z. Säugetierk. 59:28	I	1994	Hutterer	
-209	Rodentia	Octodontidae	Pipanacoctomys aureus	-27.83	-66.26		Occ. Pap. Mus. Texas Tech. Univ. 203:3	C	2000	Mares, Braun, Barquez, and Diaz	
-210	Rodentia	Octodontidae	Salinoctomys loschalchalerosorum	-30.05	-65.52		Occ. Pap. Mus. Texas Tech. Univ. 203:6	C	2000	Mares, Braun, Barquez, and Diaz	
-211	Rodentia	Abrocomidae	Abrocoma uspallata	-32.66	-69.35		J. Mammal. 83:9	C	2002	Braun and Mares	
-212	Rodentia	Abrocomidae	Cuscomys ashaninka	-11.66	-73.67		Am. Mus. Novit. 3279:2	C	1999	Emmons	
-213	Rodentia	Echimyidae	Echimys vieirai	-4.42	-56.22		Papeis Avulsos de Zoologia (São Paolo) 45:52	C	2005	Iack-Ximenes, De Vivo, and Percequillo	
-214	Rodentia	Echimyidae	Isothrix sinnamariensis	4.95	-53.03		Mammalia 60:395	C	1996	Vie et al.	
-215	Rodentia	Echimyidae	Phyllomys lundi	-22.23	-44.2		Publ. Zool., Univ. Cal. Press 132:19	C	2003	Leite	
-216	Rodentia	Echimyidae	Phyllomys mantiqueirensis	-22.6	-45.3		Publ. Zool., Univ. Cal. Press 132:25	C	2003	Leite	
-217	Rodentia	Echimyidae	Phyllomys pattoni	-17.73	-39.26		Am. Mus. Novit. 3380:30	C	2002	Emmons, Leite, Kock, and Costa	
-218	Rodentia	Echimyidae	Mesomys occultus	-3.28	-66.23		Bull. Am. Mus. Nat. Hist. 244:194	C	2000	Patton, da Silva, and Malcolm	
-219	Rodentia	Echimyidae	Proechimys echinothrix	-3.28	-66.23		Proc. Biol. Soc. Wash. 111:441	C	1998	da Silva	
-220	Rodentia	Echimyidae	Proechimys gardneri	-6.58	-68.9		Proc. Biol. Soc. Wash. 111:460	C	1998	da Silva	
-221	Rodentia	Echimyidae	Proechimys kulinae	-6.75	-70.85		Proc. Biol. Soc. Wash. 111:451	C	1998	da Silva	
-222	Rodentia	Echimyidae	Proechimys pattoni	-8.67	-72.78		Proc. Biol. Soc. Wash. 111:454	C	1998	da Silva	
-223	Rodentia	Echimyidae	Trinomys eliasi	-22.52	-47.28		Z. Säugetierk. 58:183	C	1993	Pessôa and Reis	
-224	Rodentia	Echimyidae	Trinomys mirapitanga	-16.37	-39.18		Mamm. Biol. 67:236	C	2002	Lara, Patton, and Hingst-Zaher	
-225	Rodentia	Echimyidae	Trinomys moojeni	-19.04	-43.43		Z. Säugetierk. 57:40	C	1992	Pessôa, Oliveira, and Reis	
-226	Rodentia	Echimyidae	Trinomys yonenagae	-10.8	-42.83		Mammalia 59:541	C	1995	Rocha	
-227	Lagomorpha	Ochotonidae	Ochotona hoffmanni	47.33	108.67		Byul. Mosk. Ob-va Ispytatelei Prirody. Otd. Biol. 101:29	C	1996	Formosov et al.	
-228	Lagomorpha	Ochotonidae	Ochotona nigritia	25.97	98.7		Zool. Research 21:204	C	2000	Gong et al.	
-229	Lagomorpha	Leporidae	Nesolagus timminsi	18.37	105.22		Cont. Zool. Inst., St. Petersburg 3:3	C	2000	Averianov [=Aver’yanov], Abramov and Tikhonov	
-230	Lagomorpha	Leporidae	Sylvilagus obscurus	39	-79.37		Proc. Biol. Soc. Wash. 105:858	C	1992	Chapman et al.	
-231	Lagomorpha	Leporidae	Sylvilagus varynaensis	8.77	-69.93		Revista de Biologia Tropical 49:370	C	2001	Guevara	
-232	Erinaceomorpha	Erinaceidae	Hylomys megalotis	17.55	104.83		Bull. Nat. Hist. Mus. Lond. (Zool.) 68:2	C	2002	Jenkins and M. F. Robinson	
-233	Soricomorpha	Soricidae	Crocidura hilliana	17.1	101.88		Bull. Nat. Hist. Mus. Lond. (Zool.) 61:103	C	1995	Jenkins and Smith	
-234	Soricomorpha	Soricidae	Crocidura hutanis	3.52	97.77		Experientia 51:175, Fig. 1	I	1995	Ruedi and Vogel	
-235	Soricomorpha	Soricidae	Crocidura kegoensis	18.07	105.97		Mamm. Study 29:30	C	2004	Lunde, Musser, and Ziegler	
-236	Soricomorpha	Soricidae	Crocidura musseri	-1.27	120.25		Experientia 51:175, Fig. 1	I	1995	Ruedi and Vogel	
-237	Soricomorpha	Soricidae	Crocidura ramona	30.75	34.93		Z. Säugetierk. 61:97	C	1996	Ivanitskaya, Shenbrot, and Nevo	
-238	Soricomorpha	Soricidae	Sylvisorex konganensis	2.78	16.42		Ecotropica 1:93	C	1996	Ray and Hutterer	
-239	Soricomorpha	Soricidae	Sylvisorex pluvialis	5.27	9.13		Contributions in Mammalogy: A Memorial Volume Honoring Dr. J. Knox Jones, Jr., p. 61	C	1996	Hutterer and Schlitter 	
-240	Soricomorpha	Soricidae	Congosorex phillipsorum	-7.75	36.46		J. Zool. Lond. 265:271	C	2005	Stanley, Rogers and Hutterer 	
-241	Soricomorpha	Soricidae	Congosorex verheyeni	0.4	14.73		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72 (Suppl.):10	C	2002	Hutterer, Barriere and Colyn 	
-242	Soricomorpha	Soricidae	Myosorex kihaulei	-8.35	35.94		Bonn. Zool. Beitr. 49:20	C	2000	Stanley and Hutterer 	
-243	Soricomorpha	Soricidae	Cryptotis brachyonyx	4.78	-74.45		Proc. Biol. Soc. Wash. 116:855	C	2003	Woodman 	
-244	Soricomorpha	Soricidae	Cryptotis colombiana	5.8	-75		Fieldiana Zool. n.s. 74:24	C	1993	Woodman and Timm 	
-245	Soricomorpha	Soricidae	Cryptotis peruviensis	-5.7	-79.13		Am. Mus. Novit. 3202:7	C	1997	Vivar, Pacheco and Valqui 	
-246	Soricomorpha	Soricidae	Cryptotis tamensis	7.45	-72.43		Proc. Biol. Soc. Wash. 115:254	C	2002	Woodman 	
-247	Soricomorpha	Soricidae	Chodsigoa caovansunga	22.76	104.83		Mamm. Study 28:37	C	2003	Lunde, Musser and Son 	
-248	Soricomorpha	Soricidae	Notiosorex cockrumi	31.59	-109.52		Occ. Pap. Mus. Texas Tech. Univ. 222:2	C	2003	Baker, O’Neill, and McAliley 	
-249	Soricomorpha	Soricidae	Notiosorex villai	23.57	-99.38		Proc. Biol. Soc. Wash. 113:307	C	2000	Carraway and Timm 	
-250	Soricomorpha	Soricidae	Sorex arunchi	45.8	13.1		Gortania 20:246	C	1998	Lapini and Testone 	
-251	Soricomorpha	Soricidae	Sorex yukonicus	64.73	-156.83		J. Mammal. 78:814	C	1997	Dokuchaev 	
-252	Soricomorpha	Soricidae	Epomophorus anselli	-13	33.17		Acta Chiropterologica 6:258	C	2004	Bergmans and van Strien 	
-253	Soricomorpha	Soricidae	Melonycteris fardoulisi	-10.6	161.75		Rec. Aust. Mus. 45:68 In Kitchener et al.,	I	1993	Flannery 	
-254	Soricomorpha	Soricidae	Nyctimene keasti	-5.63	132.73		Rec. W. Aust. Mus. 16:408	I	1993	Kitchener 	
-255	Soricomorpha	Soricidae	Paranyctimene tenax	-7.6	146.62		Beaufortia 51:146	I	2001	Bergmans	
-256	Soricomorpha	Soricidae	Pteralopex flanneryi	-6.83	155.73		Systematics and Biodiversity 3:437	I	2005	Helgen	
-257	Soricomorpha	Soricidae	Pteralopex taki	-8.52	157.87		Aust. Mammal. 23:146	I	2002	Parnaby	
-258	Soricomorpha	Soricidae	Pteropus banakrisi	-10.18	142.27		Australian Zool. 32:60	I	2002	Richards and Hall	
-259	Soricomorpha	Soricidae	Rousettus linduensis	-1.01	120.1		Mamm. Study 28:113	I	2003	Maryanto and Yani	
-260	Soricomorpha	Rhinolophidae	Rhinolophus chiewkweeae	2.33	102.95		Bulletin of the National Science Museum of Tokyo Series A (Zoology) 31:30	C	2005	Yoshiyuki and Lim	
-261	Soricomorpha	Rhinolophidae	Rhinolophus convexus	4.47	101.37		J. Mammal. 78:343	I	1997	Csorba	
-262	Soricomorpha	Rhinolophidae	Rhinolophus maendeleo	-5.08	39.03		Senk. Biol. 80:234	C	2000	Kock, Csorba, and Howell	
-263	Soricomorpha	Rhinolophidae	Rhinolophus sakejiensis	-11.28	24.35		J. Zool. 256:166	C	2002	Cotterill	
-264	Soricomorpha	Rhinolophidae	Rhinolophus ziama	8.38	-9.3		Myotis 40:109	C	2002	Fahr, Vierhaus, Hutterer, and Kock	
-265	Soricomorpha	Hipposideridae	Hipposideros edwardshilli	-3.33	141.16		Rec. Aust. Mus. 45:45	I	1993	Flannery and Colgan	
-266	Soricomorpha	Hipposideridae	Hipposideros hypophyllus	13.15	78.12		Senk. Biol. 73:26	C	1994	Kock and Bhat	
-267	Soricomorpha	Hipposideridae	Hipposideros khaokhouayensis	18.38	103.07		Acta Chiropterologica 8:44	C	2006	Guillen-Servent and Francis	
-268	Soricomorpha	Hipposideridae	Hipposideros madurae	-7.2	113.25		Rec. W. Aust. Mus. 16:132	I	1993	Kitchener and Maryanto	
-269	Soricomorpha	Hipposideridae	Hipposideros orbiculus	-1.03	101.72		Senk. Biol. 79:259	I	1999	Francis, Kock, and Habersetzer	
-270	Soricomorpha	Hipposideridae	Hipposideros rotalis	18.25	104.57		Senk. Biol. 79:266	C	1999	Francis, Kock, and Habersetzer	
-271	Soricomorpha	Hipposideridae	Hipposideros scutinares	17.97	104.82		Acta Chiropterologica 5:33	C	2003	Robinson, Jenkins, Francis, and Fulford	
-272	Soricomorpha	Hipposideridae	Hipposideros sorenseni	-7.68	108.67		Rec. W. Aust. Mus. 16:142	I	1993	Kitchener and Maryanto	
-273	Soricomorpha	Emballonuridae	Emballonura serii	-2.92	151.38		Mammalia 58:606	I	1994	Flannery	
-274	Soricomorpha	Emballonuridae	Saccopteryx antioquensis	5.67	-75.08		Actualidades Biologicas 23:53	C	2001	Muñoz and Cuartas	
-275	Soricomorpha	Phyllostomidae	Anoura fistulata	-3.64	-78.39		J. Mammal. 86:458	C	2005	Muchhala, Mena V., Albuja V.	
-276	Soricomorpha	Phyllostomidae	Anoura luismanueli	8.3	-71.8		Trop. Zool. 7:76	C	1994	Molinari	
-277	Soricomorpha	Phyllostomidae	Lonchophylla chocoana	0.9	-78.55		Am. Mus. Novit. 3426:4	C	2004	Dávalos	
-278	Soricomorpha	Phyllostomidae	Lonchophylla orcesi	0.53	-78.63		Proc. Biol. Soc. Wash. 118:443	C	2005	Albuja and Gardner	
-279	Soricomorpha	Phyllostomidae	Xeronycteris vieirai	-7.08	-36.35		J. Mammal. 86:405	C	2005	Gregorin and Ditchﬁeld	
-280	Soricomorpha	Phyllostomidae	Lonchorhina inusitata	2.5	-65.22		Mem. Soc. Cien. Nat. La Salle 57:73	C	1997	Handley and Ochoa	
-281	Soricomorpha	Phyllostomidae	Lophostoma aequatorialis	1.28	-78.83		Occ. Pap. Mus. Texas Tech. Univ. 232:1	C	2004	Baker, Fonseca, Parish, Phillips, and Hoffmann	
-282	Soricomorpha	Phyllostomidae	Lophostoma yasuni	-0.5	-75.92		Occ. Pap. Mus. Texas Tech. Univ. 242:1	C	2004	Fonseca and Pinto	
-283	Soricomorpha	Phyllostomidae	Micronycteris brosseti	5.03	-53		Bull. Am. Mus. Nat. Hist. 273:62	C	1998	Simmons and Voss	
-284	Soricomorpha	Phyllostomidae	Micronycteris matses	-5.29	-73.16		Am. Mus. Novit. 3358:5	C	2002	Simmons, Voss, and Fleck	
-285	Soricomorpha	Phyllostomidae	Micronycteris sanborni	-7.23	-39.41		Am. Mus. Novit. 3158:6	C	1996	Simmons	
-286	Soricomorpha	Phyllostomidae	Carollia benkeithi	-9.31	-75.98		Occ. Pap. Mus. Texas Tech. Univ. 254:5	C	2006	Solari and Baker	
-287	Soricomorpha	Phyllostomidae	Carollia colombiana	6.42	-75.25		Actualidades Biologicas 23:65	C	2001	Cuartas, Muñoz, and González	
-288	Soricomorpha	Phyllostomidae	Carollia manu	-1.2	-71.58		Occ. Pap. Mus. Texas Tech. Univ. 236:3	C	2004	Pacheco, Solari, and Velazco	
-289	Soricomorpha	Phyllostomidae	Carollia monohernandezi	1.62	-75.67		Actualidades Biologicas 26:81	C	2004	Muñoz-Arango, Cuartas-Calle and González	
-290	Soricomorpha	Phyllostomidae	Carollia sowelli	14.7	-87.12		Occ. Pap. Mus. Texas Tech. Univ. 217:4	C	2002	Baker, Solari, and Hoffmann	
-291	Soricomorpha	Phyllostomidae	Sturnira mistratensis	5.38	-76.07		Rev. Acad. Colomb. Cienc. 24:286	C	2000	Vega and Cadena	
-292	Soricomorpha	Phyllostomidae	Sturnira sorianoi	8.62	-71.17		J. Mammal. 86:867	C	2005	Sanchez- Hernandez, Romero- Almaraz, and Schnell	
-293	Soricomorpha	Phyllostomidae	Artibeus incomitatus	9.1	-81.55		Z. Säugetierk. 59:260	I	1994	Kalko and Handley	
-294	Soricomorpha	Phyllostomidae	Platyrrhinus albericoi	-13	-71.55		Fieldiana Zool. n.s. 105:21	C	2005	Velazco	
-295	Soricomorpha	Phyllostomidae	Platyrrhinus ismaeli	-6.83	-78.02		Fieldiana Zool. n.s. 105:27	C	2005	Velazco	
-296	Soricomorpha	Phyllostomidae	Platyrrhinus masu	-13.13	-71.25		Fieldiana Zool. n.s. 105:32	C	2005	Velazco	
-297	Soricomorpha	Phyllostomidae	Platyrrhinus matapalensis	-3.68	-80.2		Fieldiana Zool. n.s. 105:37	C	2005	Velazco	
-298	Soricomorpha	Phyllostomidae	Thyroptera devivoi	-8.67	-44.95		J. Mammal. 87:239	C	2006	Gregorin, Goncalves, Lim, and Engstrom	
-299	Soricomorpha	Phyllostomidae	Thyroptera lavali	-4.35	-71.97		Mammalia 57:213	C	1993	Pine	
-300	Soricomorpha	Phyllostomidae	Natalus lanatus	21.09	-105.11		J. Mammal. 86:1110	C	2005	Tejedor	
-301	Soricomorpha	Thyropteridae	Chaerephon jobimena	-12.93	49.06		Acta Chiropterologica 6:230	I	2004	Goodman and Cardiff	
-302	Soricomorpha	Thyropteridae	Chaerephon tomensis	0.2	6.65		J. Mammal. 74:901	I	1993	Juste and Ibañez	
-303	Soricomorpha	Natalidae	Otomops johnstonei	-8.25	124.72		Rec. W. Aust. Mus. 15:730	I	1992	Kitchener, How, and Maryanto	
-304	Soricomorpha	Molossidae	Arielulus aureocollaris	20.13	99.17		Senk. Biol. 76:2	C	1996	Kock and Storch	
-305	Soricomorpha	Vespertilionidae	Arielulus torquatus	24.4	121.3		J. Zool. Lond. 248:364	I	1999	Csorba and Lee	
-306	Soricomorpha	Vespertilionidae	Lasiurus atratus	3.12	-56.45		Proc. Biol. Soc. Wash. 109:5	C	1996	Handley	
-307	Soricomorpha	Vespertilionidae	Lasiurus ebenus	-25.08	-47.98		Mammalia 58:119	C	1994	Fazzolari- Corrêa	
-308	Soricomorpha	Vespertilionidae	Rhogeessa hussoni	2.03	-56.11		Contributions in Mammalogy: A Memorial Volume Honoring Dr. J. Knox Jones, Jr., p. 85	C	1996	Genoways and Baker	
-309	Soricomorpha	Vespertilionidae	Scotophilus marovaza	-14.93	47.27		Acta Chiropterologica 8:23	I	2006	Goodman, Ratrimomanarivo, and Randrian-andrianina	
-310	Soricomorpha	Vespertilionidae	Scotophilus tandrefana	-19.14	44.81		Zoosystema 27:875	I	2005	Goodman, Jenkins, and Ratrimomanarivo	
-311	Soricomorpha	Vespertilionidae	Nyctophilus nebulosus	-22.18	166.5		Aust. Mammal. 23:116	I	2002	Parnaby	
-312	Soricomorpha	Vespertilionidae	Pipistrellus hanaki	32.73	21.68		In Benda et al., Acta Chiropterologica 6:207	C	2004	Hulva and Benda	
-313	Soricomorpha	Vespertilionidae	Plecotus alpinus	44.77	6.95		Myotis 39 [dated 2001; issued April, 2002]:8	C	2002	Kiefer and Veith	
-314	Soricomorpha	Vespertilionidae	Plecotus balensis	6.75	39.73		Myotis 38:6	C	2000	Kruskop and Lavrenchenko	
-315	Soricomorpha	Vespertilionidae	Plecotus sardus	40.26	9.49		Acta Chiropterologica 4:123	I	2002	Mucedda, Kiefer, Pidinchedda, and Veith	
-316	Soricomorpha	Vespertilionidae	Plecotus strelkovi	42.42	77.33		Zoologica Scripta 35:207	C	2006	Spitzenberger	
-317	Soricomorpha	Vespertilionidae	Glauconycteris curryae	3.08	10.42		Acta Chiropterologica 3:2	C	2001	Eger and Schlitter	
-318	Soricomorpha	Vespertilionidae	Histiotus humboldti	10.53	-66.9		Proc. Biol. Soc. Wash. 109:2	C	1996	Handley	
-319	Soricomorpha	Vespertilionidae	Myotis alcathoe	39.08	21.82		In von Helversen et al., Naturwissen- schaften 88:217	I	2001	von Helversen and Heller	
-320	Soricomorpha	Vespertilionidae	Myotis annamiticus	18.48	105.72		Mammalia 65:65	C	2001	Kruskop and Tsytsulina	
-321	Soricomorpha	Vespertilionidae	Myotis csorbai	28	84		Acta Zool. Acad. Scient. Hungaricae 43:377	C	1997	Topál	
-322	Soricomorpha	Vespertilionidae	Myotis dieteri	-4.25	13		Acta Chiropterologica 7:11	C	2005	Happold	
-323	Soricomorpha	Vespertilionidae	Myotis gomantongensis	5.52	118.07		Mammalia 62:248	I	1998	Francis and Hill	
-324	Soricomorpha	Vespertilionidae	Myotis yanbarensis	26.75	128.28		Zool. Sci. 15:301	I	1998	Maeda and Matsumura	
-325	Soricomorpha	Vespertilionidae	Miniopterus gleni	-23.67	43.75		Faune de Madagascar, Chiroptères 84:128	I	1995	Peterson, Eger, and Mitchell	
-326	Soricomorpha	Vespertilionidae	Harpiola isodon	23.53	121.25		Acta Chiropterologica 8:13	I	2006	Kuo, Fang, Csorba, and Lee	
-327	Soricomorpha	Vespertilionidae	Murina harrisoni	11.49	104.21		Acta Chiropterologica 7:2	C	2005	Csorba and Bates	
-328	Soricomorpha	Vespertilionidae	Murina ryukyuana	26.75	128.28		Zool. Sci. 15:303	I	1998	Maeda and Matsumura	
-329	Soricomorpha	Vespertilionidae	Kerivoula kachinensis	24.57	97.13		Acta Chiropterologica 6:220	C	2004	Bates, Struebig, Rossiter, Kingston, Sai Sein Lin Oo, and Khin Mya Mya	
-330	Carnivora	Viverridae	Genetta bourloni	8.55	-9.47		Mammalia 67:95	C	2003	Gaubert	
-331	Artiodactyla	Suidae	Sus oliveri	12.47	120.97		Zool. J. Linn. Soc. 170:186	I	1997	Groves	
-332	Artiodactyla	Cervidae	Mazama bororo	-21.9	-47.1		Guia de identiﬁcação de cervídeos Brasileiros, p. 7	C	1996	Duarte	
-333	Artiodactyla	Cervidae	Muntiacus puhoatensis	20	105		In Chau, Vietnam Economic News 47:46	C	1997	Trai	
-334	Artiodactyla	Cervidae	Muntiacus putaoensis	27.35	97.4		Anim. Conserv. 2:4	C	1999	Amato, Egan and Rabinowitz	
-335	Artiodactyla	Cervidae	Muntiacus truongsonensis	15.95	107.57		In Ha, Vietnam Economic News 38:46	C	1997	Giao, Tuoc, Dung, Wikramanayake, Amato, Arctander and MacKinnon	
-336	Artiodactyla	Cervidae	Muntiacus vuquangensis	18.25	105.42		Sci. and Tech. news. Forest Inv. and Planning Inst. (Hanoi), p. 5	C	1994	Tuoc, Dung, Dawson, Arctander and MacKinnon	
-337	Artiodactyla	Bovidae	Damaliscus superstes	-12.35	30		Durban Mus. Novit. 28:20	C	2003	Cotterill	
-338	Artiodactyla	Bovidae	Pseudoryx nghetinhensis	18.25	105.42		Nature 363:443	C	1993	Dung, Giao, Chinh, Tuoc, Arctander, and MacKinnon	
-339	Artiodactyla	Bovidae	Kobus anselli	-8.85	26.08		J. Zool. Lond. 265:119	C	2005	Cotterill	
-340	Cetacea	Delphinidae	Orcaella heinsohni	-19.17	146.83		Mar. Mam. Sci. 21:378	M	2005	Beasley, Robertson and Arnold	
-341	Cetacea	Ziphiidae	Mesoplodon perrini	33.16	-117.35		Mar. Mam. Sci. 18:577	M	2002	Dalebout et al.	
+ID	Order	Family	Species	Latitude	Longtitude	Image URL	Citation	Locality	Year	Author	Wiki URL	Notes
+1	Monotremata	Tachyglossidae	Zaglossus attenboroughi	-2.53	140.63	http://www.charlottezoologicalpark.org/rteimages/Long-beaked-echidna.jpg	Mammalia 62:387	I	1998	Flannery and Groves	http://en.wikipedia.org/wiki/Sir_David%27s_long-beaked_echidna	
+2	Didelphimorphia	Didelphidae	Gracilinanus ignitus	-23.63	-64.47	http://t3.gstatic.com/images?q=tbn:ANd9GcQuuw1VZTUCh2ldhabpzTcl3d7kKFSVW6CAF9o0zsovNbEM0t1A	J. Mammal 83:825	C	2002	Diaz, Flores, and Barquez	http://eu.wikipedia.org/wiki/Gracilinanus_ignitus	
+3	Didelphimorphia	Didelphidae	Hyladelphys kalinowskii	-13.5	-70.92	http://www.sciencephoto.com/image/106771/large/C0042558-Kalinowski_s_Mouse_Opossum-SPL.jpg	Fieldiana Zool., n.s., 70:37	C	1992	(Hershkovitz)	http://en.wikipedia.org/wiki/Kalinowski%27s_mouse_opossum	
+4	Didelphimorphia	Didelphidae	Marmosops creightoni	-16.12	-68.08	http://www.technogypsie.com/photogallery/2011/apr/041511/JPEG/041511-047.jpg	Am. Mus. Novit. 3466:11	C	2004	Voss, Tarifa, and  Yensen 2004		
+5	Didelphimorphia	Didelphidae	Monodelphis reigi	5.97	-61.42	http://content62.eol.org/content/2011/11/25/01/54453_88_88.jpg	Mem. Fund. La Salle Cienc.  Nat. 159-160:9	C	2004	Lew and Pérez- Hernández		
+6	Didelphimorphia	Didelphidae	Monodelphis ronaldi	-11.93	-71.28		Mamm. Biol. 69:146	C	2004	Solari		
+7	Didelphimorphia	Didelphidae	Philander deltae	10	-62.82	http://www.google.co.uk/imgres?q=Philander+deltae&hl=en&gbv=2&tbm=isch&tbnid=ahwoxVgO1rvNbM:&imgrefurl=http://mamiferosdomundo.blogspot.com/2011/07/familia-didelphidae.html&docid=7VfQtD718bnzrM&imgurl=http://4.bp.blogspot.com/-ISbWXMAiifQ/ThGsGgwxuDI/AAAAAAAADCY/-kBQ4P8W6VY/s1600/CaluPhi5.jpg&w=561&h=362&ei=bWpGT8ltwsnRBbqf6akO&zoom=1&biw=1280&bih=837	J. Mammal.  87:224	C	2006	Lew, Perez- Hernandez, and  Ventura		
+8	Didelphimorphia	Didelphidae	Philander mondolfii	8	-61.5	?? same?	J. Mammal.  87:229	C	2006	Lew, Perez- Hernandez, and  Ventura		
+9	Paucituberculata	Caenolestidae	Caenolestes condorensis	-2.27	-78.73	http://www.nysm.nysed.gov/mammalsrevealed/species/images/new-shrew3.jpg	J. Mammal. 77:42	C	1996	Albuja and Patterson		
+10	Dasyuromorphia	Dasyuridae	Myoictis leucura	-6.28	142.75		Rec. Aust. Mus. 57:334	I	2005	Woolley		
+11	Dasyuromorphia	Dasyuridae	Pseudantechinus roryi	-21.61	118	http://t1.gstatic.com/images?q=tbn:ANd9GcQUop4Guh6-sP9FGVU2xJnCBocIVGQTrJ7hcUDRNeD6XXyCizUyda3uGld7	Rec. W. Aust. Mus. 20:125	C	2000	Cooper, Aplin and Adams		
+12	Dasyuromorphia	Dasyuridae	Antechinus agilis	-22.19	148.84	http://www.estherbeaton.com/stock/CuteFurry/img/JWAAJ-1640.jpg	Aust. J. Zool.  46:5	C	1998	Dickman, Parnaby, Crowther and King		
+13	Dasyuromorphia	Dasyuridae	Antechinus subtropicus	-28.22	152.42		Mem. Qld. Mus. 45:613	C	2000	Van Dyck and Crowther		
+14	Dasyuromorphia	Dasyuridae	Sminthopsis bindi	-14.5	132.75	http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sminthopsis_murina.jpg/220px-Sminthopsis_murina.jpg	Mem. Qld.  Mus. 37:312	C	1994	Van Dyck, Woinarski and Press		
+15	Dasyuromorphia	Dasyuridae	Sminthopsis boullangerensis	-30.3	115.03		Aust. J. Zool.  47:220	I	1999	Crowther, Dickman and Lynam		
+16	Peramelemorphia	Peramelidae	Microperoryctes aplini	-1.38	133.97		J. Zool. 264:117	I	2004	Helgen and Flannery		
+17	Diprotodontia	Phalangeridae	Phalanger alexandrae	-0.08	129.42	http://3.bp.blogspot.com/-fBDMwrgeJXY/Tg51Y05rEQI/AAAAAAAAC6o/VLH3mg2TcCk/s1600/Cuscus3.jpg	Aust. Mammal. 18:42	I	1995	Flannery and Boeadi		
+18	Diprotodontia	Phalangeridae	Phalanger matabiru	0.83	127.3		Aust. Mammal. 18:40	I	1995	Flannery and Boeadi		
+19	Diprotodontia	Phalangeridae	Spilocuscus wilsoni	-0.87	135		J. Mammal. 85:826	I	2004	Helgen and Flannery		
+20	Diprotodontia	Phalangeridae	Trichosurus cunninghami	-37.33	145.53		Aust. J. Zool.  50:17	C	2002	Lindemayer, Dubach and Viggers		
+21	Diprotodontia	Macropodidae	Dendrolagus mbaiso	-4.08	137.1	http://alamendah.files.wordpress.com/2009/08/dendrolagus-mbaiso.jpg	Mammalia  59:66	I	1995	Flannery, Boeadi and Szalay		
+22	Diprotodontia	Macropodidae	Petrogale coenensis	-13.78	143.07	http://awsassets.panda.org/img/yellowfootedrockwallaby_364827.jpg	Aust. J. Zool. 40:621	C	1992	Eldredge and Close		
+23	Diprotodontia	Macropodidae	Petrogale mareeba	-17.1	144.38		Aust. J. Zool. 40:619	C	1992	Eldredge and Close		
+24	Diprotodontia	Macropodidae	Petrogale sharmani	-18.87	145.73		Aust. J. Zool. 40:618	C	1992	Eldredge and Close		
+25	Diprotodontia	Macropodidae	Thylogale calabyi	-8.41	147.38		Aust. Mammal. 15:18	I	1992	Eldredge and Close		
+26	Afrosoricida	Tenrecidae	Microgale fotsifotsy	-12.48	49.17		Bull. Am. Mus. Nat. Hist. 63:2	I	1997	Jenkins, Raxworthy and Nussbaum		
+27	Afrosoricida	Tenrecidae	Microgale gymnorhyncha	-22.19	46.97		Fieldiana Zool.  n.s. 85:211	I	1996	Jenkins, Goodman and Raxworthy		
+28	Afrosoricida	Tenrecidae	Microgale jenkinsae	-22.77	43.52		Proc. Biol. Soc. Wash. 117:253	I	2004	Goodman and Soarimalala		
+29	Afrosoricida	Tenrecidae	Microgale monticola	-14.73	49.43		Fieldiana Zool. n.s. 90:149	I	1998	Goodman and Jenkins		
+30	Afrosoricida	Tenrecidae	Microgale nasoloi	-22.46	44.84		Bull. Nat. Hist. Mus. Lond.  (Zool.) 65:156	I	1999	Jenkins and  Goodman		
+31	Afrosoricida	Tenrecidae	Microgale soricoides	-18.85	48.45		Am. Mus. Novit. 3067:2	I	1993	Jenkins		
+32	Afrosoricida	Chrysochloridae	Amblysomus robustus	-25.3	30.13		Mammalia 64:42	C	2000	Bronner		
+33	Cingulata	Dasypodidae	Dasypus yepesi	-23.07	-64.92		Mastozool. Trop. 2:7	C	1995	Vizcaíno		
+34	Pilosa	Bradypodidae	Bradypus pygmaeus	9.1	-81.55		Proc. Biol. Soc. Wash. 114:17	I	2001	Anderson and Handley		
+35	Primates	Cheirogaleidae	Cheirogaleus minusculus	-20.52	47.32		Int. J. Primatol.  21:960	I	2000	Groves		
+36	Primates	Cheirogaleidae	Cheirogaleus ravus	-18.16	49.38		Int. J. Primatol. 21:960	I	2000	Groves		
+37	Primates	Cheirogaleidae	Microcebus berthae	-22.07	44.65		Int. J. Primatol.  21:1001	I	2000	Rasoloarison, Goodman and  Ganzhorn		
+38	Primates	Cheirogaleidae	Microcebus jollyae	-21.38	47.87		Int. J. Primatol. 27:382	I	2006	Louis et al.		
+39	Primates	Cheirogaleidae	Microcebus mittermeieri	-14.8	49.47		Int. J. Primatol. 27:381	I	2006	Louis et al.		
+40	Primates	Cheirogaleidae	Microcebus ravelobensis	-16.58	46.87		Primate Eye 63:26	I	1997	Zimmermann, Ehresmann, Zietemann, Radespiel, Randrianambinina, and Rakotoarison		
+41	Primates	Cheirogaleidae	Microcebus sambiranensis	-14.03	48.27		Int. J. Primatol. 21:982	I	2000	Rasoloarison, Goodman and  Ganzhorn		
+42	Primates	Cheirogaleidae	Microcebus simmoni	-17.93	49.2		Int. J. Primatol. 27:383	I	2006	Louis et al.		
+43	Primates	Cheirogaleidae	Microcebus tavaratra	-13.08	49.1		Int. J. Primatol.  21:977	I	2000	Rasoloarison, Goodman and  Ganzhorn		
+44	Primates	Cheirogaleidae	Mirza zaza	-13.67	48.25		Primate Report 71:18	I	2005	Kappeler and Roos		
+45	Primates	Lepilemuridae	Lepilemur aeclis	-16.05	45.91		BMC Evolutionary Biology 6(17) epub, page not  available	I	2006	Andriaholinirina et al.		
+46	Primates	Lepilemuridae	Lepilemur randrianasoli	-19.47	44.29		BMC Evolutionary Biology 6(17) epub, page not available	I	2006	Andriaholinirina  et al.		
+47	Primates	Lepilemuridae	Lepilemur sahamalazensis	-14.37	47.75		BMC Evolutionary Biology 6(17)epub, page not available	I	2006	Andriaholinirina  et al.		
+48	Primates	Indridae	Avahi cleesei	-18.98	44.75		Am. J. Primatol. 67:373	I	2005	Thalmann and Geissmann		
+49	Primates	Indridae	Avahi unicolor	-13.58	47.95		Int. J. Primatol. 21:934	I	2000	Thalmann and Geissmann		
+50	Primates	Lorisidae	Pseudopotto martini	unknown	unknown		Anthropol. Pap. Amer. Mus. Nat.  Hist. 78:8	C	1996	Schwartz		
+51	Primates	Galagidae	Galago rondoensis	-10.12	39.38		In Kingdon, Kingdon Field Guide to African  Mammals, p. 106	C	1997	Honess		
+52	Primates	Tarsiidae	Tarsius lariang	-1.63	120.03		Int. J. Primatol. 27:465	I	2006	Merker and Groves		
+53	Primates	Cebidae	Callithrix acariensis	-5.12	-60.02		Neotropical  Primates 8:7	C	2000	M. van Roosmalen, T. van Roosmalen, Mittermeier and  Rylands		
+54	Primates	Cebidae	Callithrix humilis	-5.52	-60.42		Goeldiana  Zoologia 22:8	C	1998	M. van Roosmalen, T. van Roosmalen, Mittermeier and  de Fonseca		
+55	Primates	Cebidae	Callithrix manicorensis	-5.84	-61.31		Neotropical  Primates 8:3	C	2000	M. van Roosmalen, T. van Roosmalen, Mittermeier and  Rylands		
+56	Primates	Cebidae	Callithrix marcai	-7	-60.95		Bol. Mus. Para. Emilio Goeldi,  ser. Zool. 9:325	C	1993	Alperin		
+57	Primates	Cebidae	Callithrix mauesi	-3.38	-57.77		Goeldiana  Zoologia 14:6	C	1992	Mittermeier, M. Schwarz  and Ayres		
+58	Primates	Cebidae	Callithrix nigriceps	-7.52	-62.87		Goeldiana Zoologia 12:4	C	1992	Ferrari and Lopes		
+59	Primates	Cebidae	Callithrix saterei	-4	-59.09		Goeldiana Zoologia 21:6	C	1998	Silva and Noronha		
+60	Primates	Cebidae	Cebus kaapori	-0.5	-47.5		Goeldiana Zoologia 15:4	C	1992	Queiroz		
+61	Primates	Cebidae	Cebus queirozi	-8.4	-35.07		Zootaxa 1200:2	C	2006	Mendes Pontes and Malta		
+62	Primates	Pitheciidae	Callicebus bernhardi	-5.52	-60.42		Neotropical  Primates 10 (Suppl.):24	C	2002	M. van Roosmalen, T. van Roosmalen and Mittermeier		
+63	Primates	Pitheciidae	Callicebus coimbrai	-10.53	-36.68		Rev. Bras. Zool. 16:534	C	1999	Kobayashi and Langguth		
+64	Primates	Pitheciidae	Callicebus stephennashi	-3.75	-59		Neotropical  Primates 10 (Suppl.):15	C	2002	M. van Roosmalen, T. van Roosmalen  and Mittermeier		
+65	Primates	Cercopithecidae	Lophocebus kipunji	-9.15	33.83		In Jones et al., Science  308:1161	C	2005	Ehardt, Butynski, Jones, and Davenport		
+66	Primates	Cercopithecidae	Macaca munzala	27.7	91.72		Int. J. Primatol 26:980	C	2005	Sinha, Datta, Madhusudan, and Mishra		
+67	Primates	Cercopithecidae	Macaca siberu	-1.35	98.92		Asian Primates 4:1	I	1995	Fuentes and Olson		http://bionames.org/references/306f94661e89cc2400429fa1646f5de8
+68	Primates	Cercopithecidae	Miopithecus ogouensis	1.5	10		Kingdon Field Guide to African Mammals, p. 55	C	1997	Kingdon		
+69	Primates	Cercopithecidae	Pygathrix cinerea	13.98	108		Zool. Garten NF 67:165	C	1997	Nadler		
+70	Primates	Cercopithecidae	Trachypithecus ebenus	22.5	103.83		Rafﬂes Bulletin of Zoology   43:15	C	1995	Brandon-Jones		
+71	Rodentia	Gliridae	Dryomys niethammeri	30.38	67.72		Bonn. Zool.   Beitr. 46:116	C	1996	Holden		
+72	Rodentia	Heteromyidae	Heteromys nubicolens	10.3	-84.8		Am. Mus.  Novit. 3509:7	C	2006	Anderson and Timm		
+73	Rodentia	Heteromyidae	Heteromys oasicus	11.83	-69.95		Am. Mus. Novit. 3396:9	C	2003	Anderson		
+74	Rodentia	Heteromyidae	Heteromys teleus	-1.83	-80.73		Am. Mus. Novit. 3382:6	C	2002	Anderson and Jarrín-V.		
+75	Rodentia	Spalacidae	Spalax carmeli	32.8	34.98		Adaptive Radiation of Blind Subterranean Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles		
+76	Rodentia	Spalacidae	Spalax galili	33	35.5		Adaptive Radiation of Blind Subterranean Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles		
+77	Rodentia	Spalacidae	Spalax golani	33.13	35.82		Adaptive Radiation  of Blind Subterranean  Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles		
+78	Rodentia	Spalacidae	Spalax judaei	31.38	34.87		Adaptive Radiation  of Blind  Subterranean  Mole Rats, p. 23	C	2001	Nevo, Ivanitskaya, and Beiles		
+79	Rodentia	Spalacidae	Spalax munzuri	39.73	39.28		Zoology in the Middle  East 33:157	C	2004	(Coskun 2004)		
+80	Rodentia	Nesomyidae	Eliurus antsingy	-19.13	44.82		Proc. Biol.   Soc. Wash. 114:974	I	2001	Carleton, Goodman, and Rakotondravony		
+81	Rodentia	Nesomyidae	Eliurus ellermani	-15.5	49.93		Am. Mus. Novit. 3087:39	I	1994	Carleton		
+82	Rodentia	Nesomyidae	Eliurus grandidieri	-14.74	49.46		Fieldiana Zool. n.s. 90:165	I	1998	Carleton and Goodman		
+83	Rodentia	Nesomyidae	Eliurus petteri	-18.92	48.57		Am. Mus. Novit. 3087:37	I	1994	Carleton 1994		
+84	Rodentia	Nesomyidae	Macrotarsomys petteri	-22.27	43.47		Proc. Biol. Soc. Wash.  118:453	I	2005	Goodman and  Soarimalala		
+85	Rodentia	Nesomyidae	Monticolomys koopmani	-19.3	47.43		Fieldiana Zool. n.s. 85:235	I	1996	Carleton and Goodman		
+86	Rodentia	Nesomyidae	Voalavo antsahabensis	-18.42	47.94		Proc. Biol.  Soc. Wash. 118:866	I	2005	Goodman, Rakotondravony, Randriamanantsoa, and Rakotomalala- Razanahoera		
+87	Rodentia	Nesomyidae	Voalavo gymnocaudus	-14.75	49.43		Fieldiana Zool. n.s. 85:182	I	1998	Carleton and Goodman		
+88	Rodentia	Cricetidae	Microtus anatolicus	37.87	32.48		Bonn. Zool. Beitr. 50:8	C	2002	Kryštufek and Kefelioğlu		
+89	Rodentia	Cricetidae	Microtus dogramacii	41.67	35.6		J. Nat. Hist. 33:301	C	1999	Kefelioğlu and Kryštufek		
+90	Rodentia	Cricetidae	Microtus qazvinensis	35.65	49.97		Russian J. Theriol. 1:118	C	2003	Golenishchev		
+91	Rodentia	Cricetidae	Habromys delicatulus	19.93	-99.5		Proc. Biol. Soc. Wash. 115:491	C	2002	Carleton, Sánchez, and Urbano Vidales		
+92	Rodentia	Cricetidae	Peromyscus schmidlyi	24.25	-104.7		J. Mammal. 85:1190	C	2004	Bradley, Carroll, Haynie, Martínez, Hamilton, and  Kilpatrick		
+93	Rodentia	Cricetidae	Reithrodontomys bakeri	17.65	-99.84		Occ. Pap. Mus. Texas Tech.Univ. 231:i, 7	C	2004	Bradley, Mendez- Harclerode,  Hamilton, and Ceballos		
+94	Rodentia	Cricetidae	Aepeomys reigi	9.67	-69.62		Mamm. Biol. 66:230	C	2001	Ochoa G., Aguilera, Pacheco, and  Soriano		
+95	Rodentia	Cricetidae	Akodon aliquantulus	-26.7	-65.37		J. Mammal. 80:788	C	1999	Díaz, Barquez, Braun, and  Mares		
+96	Rodentia	Cricetidae	Akodon mystax	-20.43	-41.78		Bonn. Zool. Beitr. 47:220	C	1998	Hershkovitz		
+97	Rodentia	Cricetidae	Akodon oenos	-32.8	-68.67		Z. Säugetierk.65:218	C	2000	Braun, Mares, and Ojeda		
+98	Rodentia	Cricetidae	Akodon paranaensis	-25.52	-49.05		J. Mammal. 81:844	C	2000	Christoff, Fagundes, Sbalqueiro, Mattevi, and Yonenaga- Yassuda		
+99	Rodentia	Cricetidae	Akodon philipmyersi	-27.53	-55.87		J. Mammal. 86:465	C	2005	Pardinas, D’Elia, Cirignoll, and  Suarez		
+100	Rodentia	Cricetidae	Akodon reigi	-34	-54.67		Comun. Zool. Hist. Nat. Mus. Montevideo12:2	C	1998	González, Langguth, and Oliveira		
+101	Rodentia	Cricetidae	Amphinectomys savamis	-4.92	-73.75		In Malygin et al., Zool. Zhur.  73:203	C	1994	Malygin		
+102	Rodentia	Cricetidae	Andalgalomys roigi	-36.21	-66.66		J. Mammal. 77:929	C	1996	Mares and Braun		
+103	Rodentia	Cricetidae	Brucepattersonius albinasus	-20.43	-41.78		Bonn. Zool. Beitr. 47:235	C	1998	Hershkovitz		
+104	Rodentia	Cricetidae	Brucepattersonius griserufescens	-20.43	-41.78		Bonn. Zool. Beitr. 47:233	C	1998	Hershkovitz		
+105	Rodentia	Cricetidae	Brucepattersonius guarani	-27	-54		Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:9	C	2000	Mares and Braun		
+106	Rodentia	Cricetidae	Brucepattersonius igniventris	-24.58	-48.58		Bonn. Zool. Beitr. 47:232	C	1998	Hershkovitz		
+107	Rodentia	Cricetidae	Brucepattersonius misionensis	-27	-54		Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:7	C	2000	Mares and Braun		
+108	Rodentia	Cricetidae	Brucepattersonius paradisus	-27	-54		Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:3	C	2000	Mares and Braun		
+109	Rodentia	Cricetidae	Brucepattersonius soricinus	-24.25	-47.75		Bonn. Zool. Beitr. 47:232	C	1998	Hershkovitz		
+110	Rodentia	Cricetidae	Calomys tocantinsi	-11.78	-49.75		Rev. Bras. Zool. 20:301	C	2003	Bonvicino, Lima, and Almeida		
+111	Rodentia	Cricetidae	Chibchanomys orcesi	-2.83	-79.5		Bull. Nat. Hist. Mus. Lond. 63:124	C	1997	Jenkins and  Barnett		
+112	Rodentia	Cricetidae	Juliomys rimofrons	-22.35	-44.73		Acta Theriol. 47:310	C	2002	Oliveira and Bonvicino		
+113	Rodentia	Cricetidae	Juscelinomys guaporensis	-13.55	-61.01		Am. Mus. Novit. 3280:4	C	1999	Emmons		
+114	Rodentia	Cricetidae	Juscelinomys huanchacae	-14.52	-60.74		Am. Mus. Novit. 3280:2	C	1999	Emmons		
+115	Rodentia	Cricetidae	Loxodontomys pikumche	-34.17	-69.97		Rev. Chilena Hist. Nat. 71:362	C	1998	Spotorno, Cofre, Manriquez,  Vilina, Marquet, and Walker		
+116	Rodentia	Cricetidae	Microakodontomys transitorius	-15.78	-47.92		Fieldiana Zool. n.s. 75:2	C	1998	Hershkovitz		
+117	Rodentia	Cricetidae	Neacomys dubosti	5.03	-53		Bull. Am. Mus. Nat. Hist. 263:78	C	2001	Voss, Lunde, and Simmons		
+118	Rodentia	Cricetidae	Neacomys minutus	-6.58	-68.9		Bull. Am. Mus. Nat. Hist. 244:105	C	2000	Patton, da Silva, and Malcolm		
+119	Rodentia	Cricetidae	Neacomys musseri	-12.25	-70.9		Bull. Am. Mus. Nat. Hist. 244:98	C	2000	Patton, da Silva, and Malcolm		
+120	Rodentia	Cricetidae	Neacomys paracou	5.03	-53		Bull. Am. Mus. Nat. Hist. 263:81	C	2001	Voss, Lunde, and Simmons		
+121	Rodentia	Cricetidae	Neusticomys ferreirai	-10.23	-58.48		J. Mammal. 86:874	C	2005	Percequillo, Carmignotto, and de J. Silva		
+122	Rodentia	Cricetidae	Noronhomys vespuccii	-3.83	-32.4		Am. Mus. Novit. 3256:10	C	1999	Carleton and Olson		
+123	Rodentia	Cricetidae	Oligoryzomys brendae	-26.78	-65.4		2nd Congreso Argentino de Zoonosis y 1st Congreso Argentino y Latinamericano de Enfermedades Emergentes, Buenos Aires, p. 243	C	1998	Massoia		
+124	Rodentia	Cricetidae	Oligoryzomys moojeni	-14.07	-47.75		Arquivos de Museu Nacional (Rio de Janeiro) 63:116	C	2005	Weksler and  Bonvicino		
+125	Rodentia	Cricetidae	Oligoryzomys rupestris	-14.07	-47.52		Arquivos de Museu Nacional (Rio de Janeiro) 63:119	C	2005	Weksler and  Bonvicino		
+126	Rodentia	Cricetidae	Oligoryzomys stramineus	-13.57	-47.18		Z. Säugetierk. 63:98	C	1998	Bonvicino and Weksler		
+127	Rodentia	Cricetidae	Oryzomys acritus	-14.71	-61.03		Am. Mus. Novit. 3478:14	C	2005	Emmons and Patton		
+128	Rodentia	Cricetidae	Oryzomys andersoni	-17.6	-59.51		In Brooks et al., Occ. Pap. Mus. Texas Tech Univ. 241:3	C	2004	Brooks and Baker		
+129	Rodentia	Cricetidae	Oryzomys curasoae	12.17	-69		Caribbean J. Sci. 37:182	I	2001	McFarlane and Debrot		
+130	Rodentia	Cricetidae	Oryzomys emmonsae	-3.65	-52.37		Bull. Am. Mus. Nat. Hist. 236:233	C	1998	Musser, Carleton,  Brothers, and Gardner		
+131	Rodentia	Cricetidae	Oryzomys maracajuensis	-21.63	-55.15		Arquivos de Museu Nacional (Rio de Janeiro) 60:292	C	2002	Langguth and  Bonvicino		
+132	Rodentia	Cricetidae	Oryzomys marinhus	-14.67	-45.83		Mamm. Biol. 68:84	C	2003	Bonvicino		
+133	Rodentia	Cricetidae	Oryzomys scotti	-15.9	-48.8		Arquivos de Museu Nacional (Rio de Janeiro) 60:290	C	2002	Langguth and Bonvicino		
+134	Rodentia	Cricetidae	Oryzomys seuanezi	-22.42	-42.03		Zool. J. Linn. Soc. 125:454	C	1999	Weksler, Geise, and Cerqueira		
+135	Rodentia	Cricetidae	Oryzomys tatei	-1.42	-78.2		Bull. Am. Mus. Nat. Hist.236:100	C	1998	Musser, Carleton, Brothers, and Gardner		
+136	Rodentia	Cricetidae	Oxymycterus amazonicus	-3.67	-55.5		Fieldiana Zool. n.s. 79:23	C	1994	Hershkovitz		
+137	Rodentia	Cricetidae	Oxymycterus caparoae	-20.43	-41.78		Bonn. Zool. Beitr. 47:244	C	1998	Hershkovitz		
+138	Rodentia	Cricetidae	Oxymycterus josei	-34.22	-57.82		J. Mammal. 83:411	C	2002	Hoffmann, Lessa, and  Smith		
+139	Rodentia	Cricetidae	Pearsonomys annectens	-39.43	-73.17		Zool. J. Linn. Soc. 106:136	C	1992	Patterson		
+140	Rodentia	Cricetidae	Punomys kofordi	-14.28	-69.78		Z. Säugetierk.60:86	C	1995	Pacheco and Patton		
+141	Rodentia	Cricetidae	Rhagomys longilingua	-13.1	-71.57		Fieldiana Zool. n.s. 101:3	C	2003	Luna and Patterson		
+142	Rodentia	Cricetidae	Rhipidomys cariri	-7.23	-39.38		Arquivos de Museu Nacional (Rio de Janeiro) 63:137	C	2005	Tribe		
+143	Rodentia	Cricetidae	Rhipidomys gardneri	-12.55	-69.05		Bull. Am. Mus. Nat. Hist. 244:165	C	2000	Patton, da Silva, and Malcolm		
+144	Rodentia	Cricetidae	Salinomys delicatus	-32	-67		J. Mammal.76:514	C	1995	Braun and Mares		
+145	Rodentia	Cricetidae	Tapecomys primus	-21.43	-63.92		J. Mammal.81:21	C	2000	Anderson and Yates		
+146	Rodentia	Cricetidae	Thomasomys apeco	-7.75	-77.25		Proc. Biol. Soc. Wash. 106:417	C	1993	Leo L. and Gardner		
+147	Rodentia	Cricetidae	Thomasomys macrotis	-7.75	-77.25		Proc. Biol. Soc. Wash. 106:762	C	2002	Gardner and Romo R.		
+148	Rodentia	Cricetidae	Thomasomys onkiro	-11.66	-73.67		J. Mammal.83:835	C	2003	Luna and Pacheco		
+149	Rodentia	Cricetidae	Thomasomys ucucha	-0.37	-78.13		Am. Mus. Novit. 3421:10	C	2003	Voss		
+150	Rodentia	Cricetidae	Wiedomys cerradensis	-14.63	-45.85		Mamm. Biol. 70:51	C	2005	Gonçalves, Almeida, and  Bonvicino		
+151	Rodentia	Muridae	Lophuromys angolensis	-5.05	18.92		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 70:255	C	2000	W. Verheyen, Dierckx, and Hulselmans		
+152	Rodentia	Muridae	Lophuromys dieterleni	6.2	10.53		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:173	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer		
+153	Rodentia	Muridae	Lophuromys dudui	0.6	25.22		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72:147	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen		
+154	Rodentia	Muridae	Lophuromys huttereri	0.2	24.78		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 66:255	C	1996	W. Verheyen, Colyn, and Hulselmans		
+155	Rodentia	Muridae	Lophuromys roseveari	4.17	9.17		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:167	C	1997	W. Verheyen, Hulselmans, Colyn, and Hutterer		
+156	Rodentia	Muridae	Lophuromys verhageni	-3.25	36.73		Bull. Inst. Roy. Sci. Nat. Belgique,  Biol. 72:153	C	2002	W. Verheyen, Hulselmans, Dierckx, and E. Verheyen		
+157	Rodentia	Muridae	Dipodillus rupicola	14.47	-4.09		J. Zool. Lond. 256:183	C	2002	Granjon, Aniskin, Volobouev, and Sicard		
+158	Rodentia	Muridae	Taterillus tranieri	15.02	-7.67		Mamm. Biol. 68:301	C	2003	Dobigny, Granjon, Aniskin, Ba, and Volobouev		
+159	Rodentia	Muridae	Apomys camiguinensis	9.17	124.72		Fieldiana Zool. n.s. 106:18	I	2000	Heaney and Tabaranza		
+160	Rodentia	Muridae	Apomys gracilirostris	13.28	121.99		Proc. Biol. Soc. Wash. 108:305	I	1995	Ruedas		
+161	Rodentia	Muridae	Archboldomys musseri	17.7	122.03		Fieldiana Zool. n.s. 89:17	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete		
+162	Rodentia	Muridae	Batomys russatus	13.47	122.02		Am. Mus. Novit. 3237:34	I	1998	Musser, Heaney, and Tabaranza, Jr.		
+163	Rodentia	Muridae	Bullimus gamay	9.18	124.72		J. Mammal. 83:427	I	2002	Rickart, Heaney, and Tabaranza, Jr.		
+164	Rodentia	Muridae	Chrotomys sibuyanensis	12.35	122.65		J. Mammal 86:420	I	2005	Rickart, Heaney, Goodman, and Jansa		
+165	Rodentia	Muridae	Crateromys heaneyi	11.02	122.23		J. Mammal. 76:26	I	1996	Gonzales and Kennedy		
+166	Rodentia	Muridae	Crunomys suncoides	8.15	124.85		Fieldiana Zool. n.s. 89:8	I	1998	Rickart, Heaney, Tabaranza, Jr., and Balete		
+167	Rodentia	Muridae	Dasymys cabrali	-17.93	20.42		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:39	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E.Verheyen		
+168	Rodentia	Muridae	Dasymys robertsii	-25.82	28.08		Mammalia 68:219	C	2004	Mullin, Pillay, Taylor		
+169	Rodentia	Muridae	Dasymys rwandae	-1.43	29.6		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:45	C	2003	W. Verheyen, Hulselmans, Dierckx, Colyn, Leirs, and E. Verheyen		
+170	Rodentia	Muridae	Dasymys shortridgei	-19.57	18.12		Mammalia 68:219	C	2004	Mullin, Pillay, and Taylor		
+171	Rodentia	Muridae	Dasymys sua	-6.87	37.68		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:41	C	2003	W. Verheyen, Hulselmans, Dierckx,  Colyn, Leirs, and E. Verheyen		
+172	Rodentia	Muridae	Desmomys yaldeni	7.07	35.5		Bonn. Zool. Beitr. 50:320	C	2003	Lavrenchenko		
+173	Rodentia	Muridae	Hadromys schmidlyi	18.72	-99.77		Proc. Biol. Soc. Wash. 118:608	C	2005	Leon-Paniagua and Sanchez		
+174	Rodentia	Muridae	Hydromys ziegleri	-3.65	143.05		Zootaxa 913:1	I	2005	Helgen		
+175	Rodentia	Muridae	Hylomyscus acrimontensis	-5.1	38.6		Proc. Biol. Soc. Wash. 118:629	C	2005	Carleton and Stanley		
+176	Rodentia	Muridae	Limnomys bryophilus	8.15	124.85		J. Mammal. 84:1445	I	2003	Rickart, Heaney, and Tabaranza		
+177	Rodentia	Muridae	Mastomys awashensis	8.38	39.15		In Lavrenhenko et al., Z. Säugetierk. 63:44	C	1998	Lavrenchenko Likhnova, and Baskevich		
+178	Rodentia	Muridae	Melomys bannisteri	-5.45	133.03		Rec. W. Aust. Mus. 16:428	I	1993	Kitchener and Maryanto		
+179	Rodentia	Muridae	Melomys cooperae	-7.87	131.42		In Kitchener and Maryanto, Rec. W. Aust. Mus. 17:43	I	1995	Kitchener		
+180	Rodentia	Muridae	Melomys howi	-8.15	130.88		In Kitchener and Suyanto, Rec. W. Aust. Mus. 18:113	I	1996	Kitchener		
+181	Rodentia	Muridae	Melomys matambuai	-2.13	147.08		Proc. Linn. Soc. N.S.W. 114:39	I	1994	Flannery, Colgan, and Trimble		
+182	Rodentia	Muridae	Melomys paveli	-3.25	129.5		J. Zool. Lond. 261:168	I	2003	Helgen		
+183	Rodentia	Muridae	Mus cypriacus	34.77	32.92		Zootaxa 1241:13	I	2006	Cucchi, Orth, Auffray, Renaud, Fabre, Catalan, Hadjisterkotis, Bonhomme and Vigne		
+184	Rodentia	Muridae	Mus fragilicauda	14.54	101.96		Zoologica Scripta 32:121	C	2003	Auffray, Orth, Catalan, Gonzalez, Desmarais, and Bonhomme		
+185	Rodentia	Muridae	Paramelomys gressitti	-7.35	146.67		Aust. J. Zool. 44:407	I	1996	Menzies		
+186	Rodentia	Muridae	Pithecheirops otion	4.97	117.8		Proc. Biol. Soc. Wash. 106:753	I	1993	Emmons		
+187	Rodentia	Muridae	Praomys degraaffi	-3.43	29.77		S. Afr. J. Zool. 34:81	C	1999	Van der Straeten and Kerbis Peterhans		
+188	Rodentia	Muridae	Praomys petteri	3.9	17.93		Bonn. Zool. Beitr. 50:333	C	2003	Van der Straeten, Lecompte, and Denys		
+189	Rodentia	Muridae	Pseudohydromys germani	-9.88	149.38		Mamm. Biol. 70:62	I	2005	Helgen		
+190	Rodentia	Muridae	Saxatilomys paulinae	17.55	104.83		Am. Mus. Novit. 3497:1	C	2005	Musser et al.		
+191	Rodentia	Muridae	Sommeromys macrorhinos	-2.22	120.07		Am. Mus. Novit. 3368:7	I	2002	Musser and Durden		
+192	Rodentia	Muridae	Tonkinomys daovantieni	21.68	106.34		Am. Mus. Novit. 3517:7	C	2006	Musser, Lunde, and Son		
+193	Rodentia	Muridae	Uromys boeadii	-0.09	135		Rec. Aust. Mus. 46:157	I	1994	Groves and Flannery		
+194	Rodentia	Muridae	Uromys emmae	-1.27	136.43		Rec. Aust. Mus. 46:159	I	1994	Groves and Flannery		
+195	Rodentia	Diatomyidae	Laonastes aenigmamus	17.56	104.82		Systematics and Biodiversity 2:419	C	2005	Jenkins, Kilpatrick, Robinson, and Timmins		
+196	Rodentia	Bathyergidae	Cryptomys anselli	-15.17	28.75		Z. Säugetierk. 64:37	C	1999	Burda, Zima, Scharff, Macholán,and Kawalika		
+197	Rodentia	Bathyergidae	Cryptomys kafuensis	-15.5	25.5		Z. Säugetierk. 64:39	C	1999	Burda, Zima, Scharff, Macholán and Kawalika		
+198	Rodentia	Erethizontidae	Sphiggurus ichillus	-1.8	-76.8		Am. Mus. Novit. 3351:17	C	2001	Voss and da Silva		
+199	Rodentia	Erethizontidae	Sphiggurus roosmalenorum	-5.56	-61.12		Am. Mus. Novit. 3351:24	C	2001	Voss and da Silva		
+200	Rodentia	Caviidae	Cavia intermedia	-27.85	-43.33		Biotemas 12:100	I	1999	Cherem, Olimpio, and Ximenez		
+201	Rodentia	Caviidae	Galea monasteriensis	-17.38	-66.15		Senk. Biol. 84:150	C	2004	Solmsdorff, Kock, Hohoff, and Sachser		
+202	Rodentia	Caviidae	Kerodon acrobata	-13.83	-46.83		Bol. Mus. Nac. Rio Janeiro Zool. 377:1	C	1997	Moojen, Locks, and Langguth		
+203	Rodentia	Ctenomyidae	Ctenomys coyhaiquensis	-46.55	-71.77		J. Mammal. 75:344	C	1994	Kelt and Gallardo		
+204	Rodentia	Ctenomyidae	Ctenomys lami	-30.85	-51.17		Stud. Neotrop. Fauna Envir. 36:2	C	2001	Freitas		
+205	Rodentia	Ctenomyidae	Ctenomys osvaldoreigi	-31.4	-64.8		Notulas Faunisticas 84:1	C	1995	Contreras		
+206	Rodentia	Ctenomyidae	Ctenomys pilarensis	-26.87	-58.3		Resúmenes VI Congreso Iberoamericano de Conservación v Zoología de Vertebrados, p. 44	C	1993	Contreras		
+207	Rodentia	Ctenomyidae	Ctenomys scagliai	-26.67	-65.85		Ciencia Siglo XXI 3:10	C	1999	Contreras		
+208	Rodentia	Octodontidae	Octodon pacificus	-38.37	-73.92		Z. Säugetierk. 59:28	I	1994	Hutterer		
+209	Rodentia	Octodontidae	Pipanacoctomys aureus	-27.83	-66.26		Occ. Pap. Mus. Texas Tech. Univ. 203:3	C	2000	Mares, Braun, Barquez, and Diaz		
+210	Rodentia	Octodontidae	Salinoctomys loschalchalerosorum	-30.05	-65.52		Occ. Pap. Mus. Texas Tech. Univ. 203:6	C	2000	Mares, Braun, Barquez, and Diaz		
+211	Rodentia	Abrocomidae	Abrocoma uspallata	-32.66	-69.35		J. Mammal. 83:9	C	2002	Braun and Mares		
+212	Rodentia	Abrocomidae	Cuscomys ashaninka	-11.66	-73.67		Am. Mus. Novit. 3279:2	C	1999	Emmons		
+213	Rodentia	Echimyidae	Echimys vieirai	-4.42	-56.22		Papeis Avulsos de Zoologia (São Paolo) 45:52	C	2005	Iack-Ximenes, De Vivo, and Percequillo		
+214	Rodentia	Echimyidae	Isothrix sinnamariensis	4.95	-53.03		Mammalia 60:395	C	1996	Vie et al.		
+215	Rodentia	Echimyidae	Phyllomys lundi	-22.23	-44.2		Publ. Zool., Univ. Cal. Press 132:19	C	2003	Leite		
+216	Rodentia	Echimyidae	Phyllomys mantiqueirensis	-22.6	-45.3		Publ. Zool., Univ. Cal. Press 132:25	C	2003	Leite		
+217	Rodentia	Echimyidae	Phyllomys pattoni	-17.73	-39.26		Am. Mus. Novit. 3380:30	C	2002	Emmons, Leite, Kock, and Costa		
+218	Rodentia	Echimyidae	Mesomys occultus	-3.28	-66.23		Bull. Am. Mus. Nat. Hist. 244:194	C	2000	Patton, da Silva, and Malcolm		
+219	Rodentia	Echimyidae	Proechimys echinothrix	-3.28	-66.23		Proc. Biol. Soc. Wash. 111:441	C	1998	da Silva		
+220	Rodentia	Echimyidae	Proechimys gardneri	-6.58	-68.9		Proc. Biol. Soc. Wash. 111:460	C	1998	da Silva		
+221	Rodentia	Echimyidae	Proechimys kulinae	-6.75	-70.85		Proc. Biol. Soc. Wash. 111:451	C	1998	da Silva		
+222	Rodentia	Echimyidae	Proechimys pattoni	-8.67	-72.78		Proc. Biol. Soc. Wash. 111:454	C	1998	da Silva		
+223	Rodentia	Echimyidae	Trinomys eliasi	-22.52	-47.28		Z. Säugetierk. 58:183	C	1993	Pessôa and Reis		
+224	Rodentia	Echimyidae	Trinomys mirapitanga	-16.37	-39.18		Mamm. Biol. 67:236	C	2002	Lara, Patton, and Hingst-Zaher		
+225	Rodentia	Echimyidae	Trinomys moojeni	-19.04	-43.43		Z. Säugetierk. 57:40	C	1992	Pessôa, Oliveira, and Reis		
+226	Rodentia	Echimyidae	Trinomys yonenagae	-10.8	-42.83		Mammalia 59:541	C	1995	Rocha		
+227	Lagomorpha	Ochotonidae	Ochotona hoffmanni	47.33	108.67		Byul. Mosk. Ob-va Ispytatelei Prirody. Otd. Biol. 101:29	C	1996	Formosov et al.		
+228	Lagomorpha	Ochotonidae	Ochotona nigritia	25.97	98.7		Zool. Research 21:204	C	2000	Gong et al.		
+229	Lagomorpha	Leporidae	Nesolagus timminsi	18.37	105.22		Cont. Zool. Inst., St. Petersburg 3:3	C	2000	Averianov [=Aver’yanov], Abramov and Tikhonov		
+230	Lagomorpha	Leporidae	Sylvilagus obscurus	39	-79.37		Proc. Biol. Soc. Wash. 105:858	C	1992	Chapman et al.		
+231	Lagomorpha	Leporidae	Sylvilagus varynaensis	8.77	-69.93		Revista de Biologia Tropical 49:370	C	2001	Guevara		
+232	Erinaceomorpha	Erinaceidae	Hylomys megalotis	17.55	104.83		Bull. Nat. Hist. Mus. Lond. (Zool.) 68:2	C	2002	Jenkins and M. F. Robinson		
+233	Soricomorpha	Soricidae	Crocidura hilliana	17.1	101.88		Bull. Nat. Hist. Mus. Lond. (Zool.) 61:103	C	1995	Jenkins and Smith		
+234	Soricomorpha	Soricidae	Crocidura hutanis	3.52	97.77		Experientia 51:175, Fig. 1	I	1995	Ruedi and Vogel		
+235	Soricomorpha	Soricidae	Crocidura kegoensis	18.07	105.97		Mamm. Study 29:30	C	2004	Lunde, Musser, and Ziegler		
+236	Soricomorpha	Soricidae	Crocidura musseri	-1.27	120.25		Experientia 51:175, Fig. 1	I	1995	Ruedi and Vogel		
+237	Soricomorpha	Soricidae	Crocidura ramona	30.75	34.93		Z. Säugetierk. 61:97	C	1996	Ivanitskaya, Shenbrot, and Nevo		
+238	Soricomorpha	Soricidae	Sylvisorex konganensis	2.78	16.42		Ecotropica 1:93	C	1996	Ray and Hutterer		
+239	Soricomorpha	Soricidae	Sylvisorex pluvialis	5.27	9.13		Contributions in Mammalogy: A Memorial Volume Honoring Dr. J. Knox Jones, Jr., p. 61	C	1996	Hutterer and Schlitter 		
+240	Soricomorpha	Soricidae	Congosorex phillipsorum	-7.75	36.46		J. Zool. Lond. 265:271	C	2005	Stanley, Rogers and Hutterer 		
+241	Soricomorpha	Soricidae	Congosorex verheyeni	0.4	14.73		Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72 (Suppl.):10	C	2002	Hutterer, Barriere and Colyn 		
+242	Soricomorpha	Soricidae	Myosorex kihaulei	-8.35	35.94		Bonn. Zool. Beitr. 49:20	C	2000	Stanley and Hutterer 		
+243	Soricomorpha	Soricidae	Cryptotis brachyonyx	4.78	-74.45		Proc. Biol. Soc. Wash. 116:855	C	2003	Woodman 		
+244	Soricomorpha	Soricidae	Cryptotis colombiana	5.8	-75		Fieldiana Zool. n.s. 74:24	C	1993	Woodman and Timm 		
+245	Soricomorpha	Soricidae	Cryptotis peruviensis	-5.7	-79.13		Am. Mus. Novit. 3202:7	C	1997	Vivar, Pacheco and Valqui 		
+246	Soricomorpha	Soricidae	Cryptotis tamensis	7.45	-72.43		Proc. Biol. Soc. Wash. 115:254	C	2002	Woodman 		
+247	Soricomorpha	Soricidae	Chodsigoa caovansunga	22.76	104.83		Mamm. Study 28:37	C	2003	Lunde, Musser and Son 		
+248	Soricomorpha	Soricidae	Notiosorex cockrumi	31.59	-109.52		Occ. Pap. Mus. Texas Tech. Univ. 222:2	C	2003	Baker, O’Neill, and McAliley 		
+249	Soricomorpha	Soricidae	Notiosorex villai	23.57	-99.38		Proc. Biol. Soc. Wash. 113:307	C	2000	Carraway and Timm 		
+250	Soricomorpha	Soricidae	Sorex arunchi	45.8	13.1		Gortania 20:246	C	1998	Lapini and Testone 		
+251	Soricomorpha	Soricidae	Sorex yukonicus	64.73	-156.83		J. Mammal. 78:814	C	1997	Dokuchaev 		
+252	Soricomorpha	Soricidae	Epomophorus anselli	-13	33.17		Acta Chiropterologica 6:258	C	2004	Bergmans and van Strien 		
+253	Soricomorpha	Soricidae	Melonycteris fardoulisi	-10.6	161.75		Rec. Aust. Mus. 45:68 In Kitchener et al.,	I	1993	Flannery 		
+254	Soricomorpha	Soricidae	Nyctimene keasti	-5.63	132.73		Rec. W. Aust. Mus. 16:408	I	1993	Kitchener 		
+255	Soricomorpha	Soricidae	Paranyctimene tenax	-7.6	146.62		Beaufortia 51:146	I	2001	Bergmans		
+256	Soricomorpha	Soricidae	Pteralopex flanneryi	-6.83	155.73		Systematics and Biodiversity 3:437	I	2005	Helgen		
+257	Soricomorpha	Soricidae	Pteralopex taki	-8.52	157.87		Aust. Mammal. 23:146	I	2002	Parnaby		
+258	Soricomorpha	Soricidae	Pteropus banakrisi	-10.18	142.27		Australian Zool. 32:60	I	2002	Richards and Hall		
+259	Soricomorpha	Soricidae	Rousettus linduensis	-1.01	120.1		Mamm. Study 28:113	I	2003	Maryanto and Yani		
+260	Chiroptera	Rhinolophidae	Rhinolophus chiewkweeae	2.33	102.95		Bulletin of the National Science Museum of Tokyo Series A (Zoology) 31:30	C	2005	Yoshiyuki and Lim		
+261	Chiroptera	Rhinolophidae	Rhinolophus convexus	4.47	101.37		J. Mammal. 78:343	I	1997	Csorba		
+262	Chiroptera	Rhinolophidae	Rhinolophus maendeleo	-5.08	39.03		Senk. Biol. 80:234	C	2000	Kock, Csorba, and Howell		
+263	Chiroptera	Rhinolophidae	Rhinolophus sakejiensis	-11.28	24.35		J. Zool. 256:166	C	2002	Cotterill		
+264	Chiroptera	Rhinolophidae	Rhinolophus ziama	8.38	-9.3		Myotis 40:109	C	2002	Fahr, Vierhaus, Hutterer, and Kock		
+265	Chiroptera	Hipposideridae	Hipposideros edwardshilli	-3.33	141.16		Rec. Aust. Mus. 45:45	I	1993	Flannery and Colgan		
+266	Chiroptera	Hipposideridae	Hipposideros hypophyllus	13.15	78.12		Senk. Biol. 73:26	C	1994	Kock and Bhat		
+267	Chiroptera	Hipposideridae	Hipposideros khaokhouayensis	18.38	103.07		Acta Chiropterologica 8:44	C	2006	Guillen-Servent and Francis		
+268	Chiroptera	Hipposideridae	Hipposideros madurae	-7.2	113.25		Rec. W. Aust. Mus. 16:132	I	1993	Kitchener and Maryanto		
+269	Chiroptera	Hipposideridae	Hipposideros orbiculus	-1.03	101.72		Senk. Biol. 79:259	I	1999	Francis, Kock, and Habersetzer		
+270	Chiroptera	Hipposideridae	Hipposideros rotalis	18.25	104.57		Senk. Biol. 79:266	C	1999	Francis, Kock, and Habersetzer		
+271	Chiroptera	Hipposideridae	Hipposideros scutinares	17.97	104.82		Acta Chiropterologica 5:33	C	2003	Robinson, Jenkins, Francis, and Fulford		
+272	Chiroptera	Hipposideridae	Hipposideros sorenseni	-7.68	108.67		Rec. W. Aust. Mus. 16:142	I	1993	Kitchener and Maryanto		
+273	Chiroptera	Emballonuridae	Emballonura serii	-2.92	151.38		Mammalia 58:606	I	1994	Flannery		
+274	Chiroptera	Emballonuridae	Saccopteryx antioquensis	5.67	-75.08		Actualidades Biologicas 23:53	C	2001	Muñoz and Cuartas		
+275	Chiroptera	Phyllostomidae	Anoura fistulata	-3.64	-78.39		J. Mammal. 86:458	C	2005	Muchhala, Mena V., Albuja V.		
+276	Chiroptera	Phyllostomidae	Anoura luismanueli	8.3	-71.8		Trop. Zool. 7:76	C	1994	Molinari		
+277	Chiroptera	Phyllostomidae	Lonchophylla chocoana	0.9	-78.55		Am. Mus. Novit. 3426:4	C	2004	Dávalos		
+278	Chiroptera	Phyllostomidae	Lonchophylla orcesi	0.53	-78.63		Proc. Biol. Soc. Wash. 118:443	C	2005	Albuja and Gardner		
+279	Chiroptera	Phyllostomidae	Xeronycteris vieirai	-7.08	-36.35		J. Mammal. 86:405	C	2005	Gregorin and Ditchﬁeld		
+280	Chiroptera	Phyllostomidae	Lonchorhina inusitata	2.5	-65.22		Mem. Soc. Cien. Nat. La Salle 57:73	C	1997	Handley and Ochoa		
+281	Chiroptera	Phyllostomidae	Lophostoma aequatorialis	1.28	-78.83		Occ. Pap. Mus. Texas Tech. Univ. 232:1	C	2004	Baker, Fonseca, Parish, Phillips, and Hoffmann		
+282	Chiroptera	Phyllostomidae	Lophostoma yasuni	-0.5	-75.92		Occ. Pap. Mus. Texas Tech. Univ. 242:1	C	2004	Fonseca and Pinto		
+283	Chiroptera	Phyllostomidae	Micronycteris brosseti	5.03	-53		Bull. Am. Mus. Nat. Hist. 273:62	C	1998	Simmons and Voss		
+284	Chiroptera	Phyllostomidae	Micronycteris matses	-5.29	-73.16		Am. Mus. Novit. 3358:5	C	2002	Simmons, Voss, and Fleck		
+285	Chiroptera	Phyllostomidae	Micronycteris sanborni	-7.23	-39.41		Am. Mus. Novit. 3158:6	C	1996	Simmons		
+286	Chiroptera	Phyllostomidae	Carollia benkeithi	-9.31	-75.98		Occ. Pap. Mus. Texas Tech. Univ. 254:5	C	2006	Solari and Baker		
+287	Chiroptera	Phyllostomidae	Carollia colombiana	6.42	-75.25		Actualidades Biologicas 23:65	C	2001	Cuartas, Muñoz, and González		
+288	Chiroptera	Phyllostomidae	Carollia manu	-1.2	-71.58		Occ. Pap. Mus. Texas Tech. Univ. 236:3	C	2004	Pacheco, Solari, and Velazco		
+289	Chiroptera	Phyllostomidae	Carollia monohernandezi	1.62	-75.67		Actualidades Biologicas 26:81	C	2004	Muñoz-Arango, Cuartas-Calle and González		
+290	Chiroptera	Phyllostomidae	Carollia sowelli	14.7	-87.12		Occ. Pap. Mus. Texas Tech. Univ. 217:4	C	2002	Baker, Solari, and Hoffmann		
+291	Chiroptera	Phyllostomidae	Sturnira mistratensis	5.38	-76.07		Rev. Acad. Colomb. Cienc. 24:286	C	2000	Vega and Cadena		
+292	Chiroptera	Phyllostomidae	Sturnira sorianoi	8.62	-71.17		J. Mammal. 86:867	C	2005	Sanchez- Hernandez, Romero- Almaraz, and Schnell		
+293	Chiroptera	Phyllostomidae	Artibeus incomitatus	9.1	-81.55		Z. Säugetierk. 59:260	I	1994	Kalko and Handley		
+294	Chiroptera	Phyllostomidae	Platyrrhinus albericoi	-13	-71.55		Fieldiana Zool. n.s. 105:21	C	2005	Velazco		
+295	Chiroptera	Phyllostomidae	Platyrrhinus ismaeli	-6.83	-78.02		Fieldiana Zool. n.s. 105:27	C	2005	Velazco		
+296	Chiroptera	Phyllostomidae	Platyrrhinus masu	-13.13	-71.25		Fieldiana Zool. n.s. 105:32	C	2005	Velazco		
+297	Chiroptera	Phyllostomidae	Platyrrhinus matapalensis	-3.68	-80.2		Fieldiana Zool. n.s. 105:37	C	2005	Velazco		
+298	Chiroptera	Phyllostomidae	Thyroptera devivoi	-8.67	-44.95		J. Mammal. 87:239	C	2006	Gregorin, Goncalves, Lim, and Engstrom		
+299	Chiroptera	Phyllostomidae	Thyroptera lavali	-4.35	-71.97		Mammalia 57:213	C	1993	Pine		
+300	Chiroptera	Phyllostomidae	Natalus lanatus	21.09	-105.11		J. Mammal. 86:1110	C	2005	Tejedor		
+301	Chiroptera	Thyropteridae	Chaerephon jobimena	-12.93	49.06		Acta Chiropterologica 6:230	I	2004	Goodman and Cardiff		
+302	Chiroptera	Thyropteridae	Chaerephon tomensis	0.2	6.65		J. Mammal. 74:901	I	1993	Juste and Ibañez		
+303	Chiroptera	Natalidae	Otomops johnstonei	-8.25	124.72		Rec. W. Aust. Mus. 15:730	I	1992	Kitchener, How, and Maryanto		
+304	Chiroptera	Molossidae	Arielulus aureocollaris	20.13	99.17		Senk. Biol. 76:2	C	1996	Kock and Storch		
+305	Chiroptera	Vespertilionidae	Arielulus torquatus	24.4	121.3		J. Zool. Lond. 248:364	I	1999	Csorba and Lee		
+306	Chiroptera	Vespertilionidae	Lasiurus atratus	3.12	-56.45		Proc. Biol. Soc. Wash. 109:5	C	1996	Handley		
+307	Chiroptera	Vespertilionidae	Lasiurus ebenus	-25.08	-47.98		Mammalia 58:119	C	1994	Fazzolari- Corrêa		
+308	Chiroptera	Vespertilionidae	Rhogeessa hussoni	2.03	-56.11		Contributions in Mammalogy: A Memorial Volume Honoring Dr. J. Knox Jones, Jr., p. 85	C	1996	Genoways and Baker		
+309	Chiroptera	Vespertilionidae	Scotophilus marovaza	-14.93	47.27		Acta Chiropterologica 8:23	I	2006	Goodman, Ratrimomanarivo, and Randrian-andrianina		
+310	Chiroptera	Vespertilionidae	Scotophilus tandrefana	-19.14	44.81		Zoosystema 27:875	I	2005	Goodman, Jenkins, and Ratrimomanarivo		
+311	Chiroptera	Vespertilionidae	Nyctophilus nebulosus	-22.18	166.5		Aust. Mammal. 23:116	I	2002	Parnaby		
+312	Chiroptera	Vespertilionidae	Pipistrellus hanaki	32.73	21.68		In Benda et al., Acta Chiropterologica 6:207	C	2004	Hulva and Benda		
+313	Chiroptera	Vespertilionidae	Plecotus alpinus	44.77	6.95		Myotis 39 [dated 2001; issued April, 2002]:8	C	2002	Kiefer and Veith		
+314	Chiroptera	Vespertilionidae	Plecotus balensis	6.75	39.73		Myotis 38:6	C	2000	Kruskop and Lavrenchenko		
+315	Chiroptera	Vespertilionidae	Plecotus sardus	40.26	9.49		Acta Chiropterologica 4:123	I	2002	Mucedda, Kiefer, Pidinchedda, and Veith		
+316	Chiroptera	Vespertilionidae	Plecotus strelkovi	42.42	77.33		Zoologica Scripta 35:207	C	2006	Spitzenberger		
+317	Chiroptera	Vespertilionidae	Glauconycteris curryae	3.08	10.42		Acta Chiropterologica 3:2	C	2001	Eger and Schlitter		
+318	Chiroptera	Vespertilionidae	Histiotus humboldti	10.53	-66.9		Proc. Biol. Soc. Wash. 109:2	C	1996	Handley		
+319	Chiroptera	Vespertilionidae	Myotis alcathoe	39.08	21.82		In von Helversen et al., Naturwissen- schaften 88:217	I	2001	von Helversen and Heller		
+320	Chiroptera	Vespertilionidae	Myotis annamiticus	18.48	105.72		Mammalia 65:65	C	2001	Kruskop and Tsytsulina		
+321	Chiroptera	Vespertilionidae	Myotis csorbai	28	84		Acta Zool. Acad. Scient. Hungaricae 43:377	C	1997	Topál		
+322	Chiroptera	Vespertilionidae	Myotis dieteri	-4.25	13		Acta Chiropterologica 7:11	C	2005	Happold		
+323	Chiroptera	Vespertilionidae	Myotis gomantongensis	5.52	118.07		Mammalia 62:248	I	1998	Francis and Hill		
+324	Chiroptera	Vespertilionidae	Myotis yanbarensis	26.75	128.28		Zool. Sci. 15:301	I	1998	Maeda and Matsumura		
+325	Chiroptera	Vespertilionidae	Miniopterus gleni	-23.67	43.75		Faune de Madagascar, Chiroptères 84:128	I	1995	Peterson, Eger, and Mitchell		
+326	Chiroptera	Vespertilionidae	Harpiola isodon	23.53	121.25		Acta Chiropterologica 8:13	I	2006	Kuo, Fang, Csorba, and Lee		
+327	Chiroptera	Vespertilionidae	Murina harrisoni	11.49	104.21		Acta Chiropterologica 7:2	C	2005	Csorba and Bates		
+328	Chiroptera	Vespertilionidae	Murina ryukyuana	26.75	128.28		Zool. Sci. 15:303	I	1998	Maeda and Matsumura		
+329	Chiroptera	Vespertilionidae	Kerivoula kachinensis	24.57	97.13		Acta Chiropterologica 6:220	C	2004	Bates, Struebig, Rossiter, Kingston, Sai Sein Lin Oo, and Khin Mya Mya		
+330	Carnivora	Viverridae	Genetta bourloni	8.55	-9.47		Mammalia 67:95	C	2003	Gaubert		
+331	Artiodactyla	Suidae	Sus oliveri	12.47	120.97		Zool. J. Linn. Soc. 170:186	I	1997	Groves		
+332	Artiodactyla	Cervidae	Mazama bororo	-21.9	-47.1		Guia de identiﬁcação de cervídeos Brasileiros, p. 7	C	1996	Duarte		
+333	Artiodactyla	Cervidae	Muntiacus puhoatensis	20	105		In Chau, Vietnam Economic News 47:46	C	1997	Trai		
+334	Artiodactyla	Cervidae	Muntiacus putaoensis	27.35	97.4		Anim. Conserv. 2:4	C	1999	Amato, Egan and Rabinowitz		
+335	Artiodactyla	Cervidae	Muntiacus truongsonensis	15.95	107.57		In Ha, Vietnam Economic News 38:46	C	1997	Giao, Tuoc, Dung, Wikramanayake, Amato, Arctander and MacKinnon		
+336	Artiodactyla	Cervidae	Muntiacus vuquangensis	18.25	105.42		Sci. and Tech. news. Forest Inv. and Planning Inst. (Hanoi), p. 5	C	1994	Tuoc, Dung, Dawson, Arctander and MacKinnon		
+337	Artiodactyla	Bovidae	Damaliscus superstes	-12.35	30		Durban Mus. Novit. 28:20	C	2003	Cotterill		
+338	Artiodactyla	Bovidae	Pseudoryx nghetinhensis	18.25	105.42		Nature 363:443	C	1993	Dung, Giao, Chinh, Tuoc, Arctander, and MacKinnon		
+339	Artiodactyla	Bovidae	Kobus anselli	-8.85	26.08		J. Zool. Lond. 265:119	C	2005	Cotterill		
+340	Cetacea	Delphinidae	Orcaella heinsohni	-19.17	146.83		Mar. Mam. Sci. 21:378	M	2005	Beasley, Robertson and Arnold		
+341	Cetacea	Ziphiidae	Mesoplodon perrini	33.16	-117.35		Mar. Mam. Sci. 18:577	M	2002	Dalebout et al.		
