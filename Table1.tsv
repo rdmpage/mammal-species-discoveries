@@ -250,14 +250,14 @@ ID	Order	Family	Species	Latitude	Longtitude	Image URL	Citation	Locality	Year	Aut
 249	Soricomorpha	Soricidae	Notiosorex villai	23.57	-99.38		Proc. Biol. Soc. Wash. 113:307	C	2000	Carraway and Timm 		
 250	Soricomorpha	Soricidae	Sorex arunchi	45.8	13.1		Gortania 20:246	C	1998	Lapini and Testone 		
 251	Soricomorpha	Soricidae	Sorex yukonicus	64.73	-156.83		J. Mammal. 78:814	C	1997	Dokuchaev 		
-252	Soricomorpha	Soricidae	Epomophorus anselli	-13	33.17		Acta Chiropterologica 6:258	C	2004	Bergmans and van Strien 		
-253	Soricomorpha	Soricidae	Melonycteris fardoulisi	-10.6	161.75		Rec. Aust. Mus. 45:68 In Kitchener et al.,	I	1993	Flannery 		
-254	Soricomorpha	Soricidae	Nyctimene keasti	-5.63	132.73		Rec. W. Aust. Mus. 16:408	I	1993	Kitchener 		
-255	Soricomorpha	Soricidae	Paranyctimene tenax	-7.6	146.62		Beaufortia 51:146	I	2001	Bergmans		
-256	Soricomorpha	Soricidae	Pteralopex flanneryi	-6.83	155.73		Systematics and Biodiversity 3:437	I	2005	Helgen		
-257	Soricomorpha	Soricidae	Pteralopex taki	-8.52	157.87		Aust. Mammal. 23:146	I	2002	Parnaby		
-258	Soricomorpha	Soricidae	Pteropus banakrisi	-10.18	142.27		Australian Zool. 32:60	I	2002	Richards and Hall		
-259	Soricomorpha	Soricidae	Rousettus linduensis	-1.01	120.1		Mamm. Study 28:113	I	2003	Maryanto and Yani		
+252	Chiroptera	Pteropodidae	Epomophorus anselli	-13	33.17		Acta Chiropterologica 6:258	C	2004	Bergmans and van Strien 		
+253	Chiroptera	Pteropodidae	Melonycteris fardoulisi	-10.6	161.75		Rec. Aust. Mus. 45:68 In Kitchener et al.,	I	1993	Flannery 		
+254	Chiroptera	Pteropodidae	Nyctimene keasti	-5.63	132.73		Rec. W. Aust. Mus. 16:408	I	1993	Kitchener 		
+255	Chiroptera	Pteropodidae	Paranyctimene tenax	-7.6	146.62		Beaufortia 51:146	I	2001	Bergmans		
+256	Chiroptera	Pteropodidae	Pteralopex flanneryi	-6.83	155.73		Systematics and Biodiversity 3:437	I	2005	Helgen		
+257	Chiroptera	Pteropodidae	Pteralopex taki	-8.52	157.87		Aust. Mammal. 23:146	I	2002	Parnaby		
+258	Chiroptera	Pteropodidae	Pteropus banakrisi	-10.18	142.27		Australian Zool. 32:60	I	2002	Richards and Hall		
+259	Chiroptera	Pteropodidae	Rousettus linduensis	-1.01	120.1		Mamm. Study 28:113	I	2003	Maryanto and Yani		
 260	Chiroptera	Rhinolophidae	Rhinolophus chiewkweeae	2.33	102.95		Bulletin of the National Science Museum of Tokyo Series A (Zoology) 31:30	C	2005	Yoshiyuki and Lim		
 261	Chiroptera	Rhinolophidae	Rhinolophus convexus	4.47	101.37		J. Mammal. 78:343	I	1997	Csorba		
 262	Chiroptera	Rhinolophidae	Rhinolophus maendeleo	-5.08	39.03		Senk. Biol. 80:234	C	2000	Kock, Csorba, and Howell		
