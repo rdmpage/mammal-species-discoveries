@@ -345,6 +345,53 @@ $citations=array(
 'Mar. Mam. Sci. 21:378',
 'Mar. Mam. Sci. 18:577');
 
+$citations = array(
+'Anthropol. Pap. Amer. Mus. Nat.  Hist. 78:8'
+);
+
+$citations=array(
+'Arquivos de Museu Nacional (Rio de Janeiro) 60:290',
+'Arquivos de Museu Nacional (Rio de Janeiro) 60:292',
+'Arquivos de Museu Nacional (Rio de Janeiro) 63:116',
+'Arquivos de Museu Nacional (Rio de Janeiro) 63:119',
+'Arquivos de Museu Nacional (Rio de Janeiro) 63:137'
+);
+
+$citations=array(
+'Occ. Pap. Mus. Texas Tech. Univ. 203:3',
+'Occ. Pap. Mus. Texas Tech. Univ. 203:6',
+'Occ. Pap. Mus. Texas Tech. Univ. 217:4',
+'Occ. Pap. Mus. Texas Tech. Univ. 222:2',
+'Occ. Pap. Mus. Texas Tech. Univ. 232:1',
+'Occ. Pap. Mus. Texas Tech. Univ. 236:3',
+'Occ. Pap. Mus. Texas Tech. Univ. 242:1',
+'Occ. Pap. Mus. Texas Tech. Univ. 254:5',
+'Occ. Pap. Mus. Texas Tech.Univ. 231:7',
+'Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:3',
+'Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:7',
+'Occ. Pap. Sam Noble Oklahoma Mus. Nat. Hist. 9:9'
+);
+
+$citations=array(
+'Rev. Acad. Colomb. Cienc. 24:286',
+'Rev. Bras. Zool. 16:534',
+'Rev. Bras. Zool. 20:301',
+'Rev. Chilena Hist. Nat. 71:362'
+);
+
+
+$citations=array(
+'Senk. Biol. 73:26',
+'Senk. Biol. 76:2',
+'Senk. Biol. 79:259',
+'Senk. Biol. 79:266',
+'Senk. Biol. 80:234',
+'Senk. Biol. 84:150',
+'Stud. Neotrop. Fauna Envir. 36:2',
+'Systematics and Biodiversity 2:419'
+);
+
+
 foreach ($citations as $citation)
 {
 
@@ -356,6 +403,8 @@ foreach ($citations as $citation)
 		'biostor' => '',
 		'pdf' => ''
 	);
+	
+
 
 	if (preg_match('/^(?<journal>.*)\s+(?<volume>\d+):(?<page>\d+)$/u', $citation, $m))
 	{
