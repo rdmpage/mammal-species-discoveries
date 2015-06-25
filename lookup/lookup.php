@@ -391,6 +391,34 @@ $citations=array(
 'Systematics and Biodiversity 2:419'
 );
 
+$citations=array(
+'Acta Chiropterologica 6:207',
+'Occ. Pap. Mus. Texas Tech Univ. 241:3',
+'Vietnam Economic News 47:46',
+'Vietnam Economic News 38:46',
+'Science  308:1161',
+'Kingdon Field Guide to African  Mammals, p. 106',
+'Rec. W. Aust. Mus. 17:43',
+'Rec. W. Aust. Mus. 18:113',
+'Z. Säugetierk. 63:44',
+'Zool. Zhur.  73:203'
+);
+
+$citations = array(
+'Bull. Am. Mus. Nat. Hist. 63:2',
+'Bull. Am. Mus. Nat. Hist.236:100',
+'Bull. Inst. Roy. Sci. Nat. Belgique,  Biol. 72:153',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 66:255',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:167',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 67:173',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 70:255',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72 (Suppl.):10',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 72:147',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:39',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:41',
+'Bull. Inst. Roy. Sci. Nat. Belgique, Biol. 73:45'
+);
+
 
 foreach ($citations as $citation)
 {
